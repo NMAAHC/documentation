@@ -61,7 +61,7 @@ The character '<font size="+1">**a**</font>' must be used to designate the first
 >> ###### acessory components in TMS are differentiated from "part of an object" components.  
 <br/> 
 
-For example, where the work is a feature film in a can on one reel/core with Work Number 2018.37.2, the film itself will have the Instantiation Number '<font size="+1">**1**</font>' with Component Element '<font size="+1">**a**</font>', e.g. **2018.37.2.1a**, while the reel/core holding the film will have the Instantiation Number (with Accessory Suffix) 2099.67.3.1a_acc1 and the canister holding the reel will have the Instantiation Number (with Suffix Element ) 2099.67.3.1a_acc2 and were a lightcard or other piece of filmlab paper ephemera ro information to be contained in the canister it will have the Instantiation Number (with Suffix Element) 2099.67.3.1a_acc3 and so on.. 
+For example, where the work is a feature film in a can on one reel/core with Work Number 2018.37.2, the film itself will have the Instantiation Number '<font size="+1" color="blue">**1**</font>' with Component Element '<font size="+1">**a**</font>', e.g. **2018.37.2.1a**, while the reel/core holding the film will have the Instantiation Number (with Accessory Suffix) 2099.67.3.1a_acc1 and the canister holding the reel will have the Instantiation Number (with Suffix Element ) 2099.67.3.1a_acc2 and were a lightcard or other piece of filmlab paper ephemera ro information to be contained in the canister it will have the Instantiation Number (with Suffix Element) 2099.67.3.1a_acc3 and so on.. 
 
 
 
