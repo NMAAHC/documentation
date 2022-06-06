@@ -57,11 +57,11 @@ The most general formulation for numbering films on multiple reels is:
 - - -  
 <br/>
 
-The character '<font size="+1">**a**</font>' must be used to designate the first physical carrier for the essence or signal (videotape, audiotape or film), and that the subsequent characters be used for any remaining phsyical carriers in the instantiation. Any containers, cans, cases or other ephemera related to the physical carrier will likley be accessory components in TMS.
+The character '<font size="+1">**a**</font>' `must` be used to designate the first physical carrier for the essence or signal (videotape, audiotape or film), and that the subsequent characters be used for any remaining phsyical carriers in the instantiation. Any containers, cans, cases or other ephemera related to the physical carrier will likley be accessory components in TMS.
 >> ###### acessory components in TMS are differentiated from "part of an object" components.  
 <br/> 
 
-For example, where the work is a feature film in a can on one reel/core with Work Number 2018.37.2, the film itself will have the Instantiation Number '<font size="+1" color="blue">**1**</font>' with Component Element '<font size="+1">**a**</font>', e.g. **2018.37.2.1a**, while the reel/core holding the film will have the Instantiation Number (with Accessory Suffix) 2099.67.3.1a_acc1 and the canister holding the reel will have the Instantiation Number (with Suffix Element ) 2099.67.3.1a_acc2 and were a lightcard or other piece of filmlab paper ephemera ro information to be contained in the canister it will have the Instantiation Number (with Suffix Element) 2099.67.3.1a_acc3 and so on.. 
+For example, where the work is a feature film in a can on one reel/core with Work Number 2018.37.2, the film itself will have the Instantiation Number '<font size="+1">**1**</font>' with Component Element '<font size="+1">**a**</font>', e.g. **2018.37.2.1a**, while the reel/core holding the film will have the Instantiation Number (with Accessory Suffix) 2099.67.3.1a_acc1 and the canister holding the reel will have the Instantiation Number (with Suffix Element ) 2099.67.3.1a_acc2 and were a lightcard or other piece of filmlab paper ephemera ro information to be contained in the canister it will have the Instantiation Number (with Suffix Element) 2099.67.3.1a_acc3 and so on.. 
 
 
 
