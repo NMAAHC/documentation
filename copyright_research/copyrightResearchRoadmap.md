@@ -1,3 +1,10 @@
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
+
 ># NMAAHC Copyright Research Guide and Roadmap
 ># Time-Based Media  
 
@@ -75,10 +82,5 @@ The State of Recorded Sound Preservation in the United States: A National Legacy
 
 <blockquote><details><summary>§108(c) Exemptions for Preservation Activities</summary><blockquote><br/>
 
-<style>
-  code {
-    white-space : pre-wrap !important;
-    word-break: break-word;
-  }
-</style>
+
 
