@@ -1,3 +1,3 @@
 ## Documentation 
-[film_scanning](documentation/film_scanning/README)  
-[TBM_cataloging](documentation/TBM_cataloging/README)
+[film_scanning](/film_scanning/README.md)  
+[TBM_cataloging](/TBM_cataloging/README.md)
