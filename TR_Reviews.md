@@ -3,7 +3,7 @@
 This document details the steps for TBMA team members to process PDCO material received for Museum accession considerations. Members will refer to the Smartsheet questionnaires filled by curatorial staff members and the team share folder (links below) to prepare collections for pre-acquisition, accession, and DAMs ingestion.
 
 ## Pre-Acquisition
-1. Receiving new entry on [Time-Base Media questionnaire](https://app.smartsheet.com/sheets/G5jpwjcw8PCh73xVMvVQ83R9w3jP85Wcw2XR6M71?view=grid)
+1. Receiving new entry on Time-Base Media questionnaire
    - BM/CC receive notifications when additions/changes are made to this sheet.
 2. Verify questionnaire data (BM/CC)
    - Verify if files are in J drives (Questionnaire: J Drive folder location)
