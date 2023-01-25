@@ -346,7 +346,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 <br/>
 
 ---
- <br/>
+<br/>
 <details><summary>VIDEOTAPE FORMATS<br/>The following scenarios provide guidance for naming and numbering works on various videotape and their associated digital derivatives.</summary>
 <br/>
 
@@ -575,7 +575,8 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 <br/>
 
 ---
- <br/>
+
+<br/>
 <details><summary>AUDIO FORMATS<br/>The following scenarios provide guidance for naming and numbering works on various audio formats and their associated digital derivatives. he numbering system below is in response to the fact that two digital preservation main files are generated for every two-sided analog audio object. The component number for the disc, reel, or cassette does not have to reflect this "two-sidedness", but a distinction is necessary for digital preservation main files and subsequent derivatives.
 
 Our main guideline, of which several examples follow below, is that the filename must reflect its source component, instead of incorporating the next sequential letter. [But this need not reflect or affect the TMS component number for the digital preservation main.]
