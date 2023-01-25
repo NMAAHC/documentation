@@ -279,7 +279,7 @@ this choice will be based upon what makes the most sense for the archive and how
 *Mixed archival collection containing time-based media.*
 <br/>
 <br/>
->Mixed archival collections containing time-based media works, such as the Pearl Bowser collection (2012.79), have a Series Number inserted between the Collection Number and Work Number. This number is used to indicate the type of media carrier or object.
+>Mixed archival collections containing time-based media works, such as the Pearl Bowser collection (2012.79), have a Series Number inserted between the Collection Number and Work Number. This number is used to indicate the type of media carrier or object. An example could be as such:
 
 >1. motion picure film: all gauges and bases
 >2. video: tape-based video formats, both cassette and open-reel   
@@ -509,7 +509,7 @@ this choice will be based upon what makes the most sense for the archive and how
 *Mixed archival collection containing time-based media.*
 <br/>
 <br/>
->Mixed archival collections containing time-based media works, such as the Pearl Bowser collection (2012.79), have a Series Number inserted between the Collection Number and Work Number. This number is used to indicate the type of media carrier or object.
+>Mixed archival collections containing time-based media works, such as the Pearl Bowser collection (2012.79), have a Series Number inserted between the Collection Number and Work Number. This number is used to indicate the type of media carrier or object. An example could be as such:
 
 >1. motion picure film: all gauges and bases
 >2. video: tape-based video formats, both cassette and open-reel   
@@ -575,3 +575,135 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 <br/>
 
 ---
+ <br/>
+<details><summary>AUDIO FORMATS<br/>The following scenarios provide guidance for naming and numbering works on various audio formats and their associated digital derivatives. he numbering system below is in response to the fact that two digital preservation main files are generated for every two-sided analog audio object. The component number for the disc, reel, or cassette does not have to reflect this "two-sidedness", but a distinction is necessary for digital preservation main files and subsequent derivatives.
+
+Our main guideline, of which several examples follow below, is that the filename must reflect its source component, instead of incorporating the next sequential letter. [But this need not reflect or affect the TMS component number for the digital preservation main.]
+</summary>
+<br/>
+
+<br/>
+<details><summary>Circumstance A: One two-sided 10" 78 rpm shellac disc in a generic paper sleeve.
+
+</summary>
+<br/>
+
+>### **Circumstance A**:
+
+*One two-sided 10" 78 rpm shellac disc in a generic paper sleeve.
+*
+
+**For shellac disc:**  
+>*accessionYear(2011).collectionNumber(17).workNumber(21).instantiationNumber(1)componentElement(a)*  
+
+**For paper sleeve:**
+>*accessionYear(2011).collectionNumber(17).workNumber(21).instantiationNumber(1)componentElement(a)_acc1*  
+
+**For Preservation Main File - Side "A" of shellac disc:**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(a)_s1.wav*  
+
+**For Preservation Main File - Side "B":** 
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(a)_s2.wav*
+
+**For derivatives, extensible as needed:**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(a)_s1_DER.mp3*
+
+
+| Component | Object # |
+| --- | --- |
+| 10" shellac disc | 2011.17.21.1a |
+| paper sleeve | 2011.17.21.1a_acc1 |
+| Preservation main file side "A" |	2011_17_21_1a_s1.wav |
+| Preservation main file side "B" |	2011_17_21_1a_s2.wav |
+| Digital access file(s) derived from preservation main file | 2011_17_21_1a_s2_DER.mp3 |
+| | |
+
+>> ##### Filenames for digital files will by necessity transform all periods within the object number into underscores, due to the fact that using periods in filenames can result in problems when trying to automate or batch digital preservation processes.
+</details>
+<br/>
+
+---
+
+>### **Circumstance B**:
+
+*A Double LP (DLP) - one album consisting of two two-sided 12" 33 1/3 rpm vinyl discs. Packaged in printed sleeves inside of a gatefold jacket. The sleeves contain original artwork, lyrics, and credits.
+*
+
+**For DLP disc 1:**  
+>*accessionYear(2011).collectionNumber(17).workNumber(21).instantiationNumber(1)componentElement(a)*  
+
+**For DLP disc 2:**
+>*accessionYear(2011).collectionNumber(17).workNumber(21).instantiationNumber(1)componentElement(b)*  
+
+**For sleeve 1:**
+>*accessionYear(2011).collectionNumber(17)_.orkNumber(21).instantiationNumber(1)componentElement(a)_acc1*  
+
+**For sleeve 2:** 
+>*accessionYear(2011).collectionNumber(17)_.orkNumber(21).instantiationNumber(1)componentElement(b)_acc1* 
+
+**For gatefold jacket:**
+>*accessionYear(2011).collectionNumber(17)_.orkNumber(21).instantiationNumber(1)componentElement(ab)_acc1*
+
+**For Preservation Main File - LP 1 Side "A":**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(a)_s1.wav*
+
+**For Preservation Main File - LP 1 Side "B":**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(a)_s2.wav*
+
+**For Preservation Main File - LP 2 Side "A":**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(b)_s1.wav*
+
+**For Preservation Main File - LP 2 Side "B":**
+>*accessionYear(2011)_collectionNumber(17)_workNumber(21)_instantiationNumber(1)componentElement(b)_s2.wav
+*
+| Component | Object # |
+| --- | --- |
+| DLP disc 1 | 2011.17.21.1a |
+| DLP disc 2 | 2011.17.21.1b |
+| sleeve 1 | 2011.17.21.1a_acc1 |
+| sleeve 2 | 2011.17.21.1b_acc1 |
+| gatefold jacket | 2011.17.21.1ab_acc1 |
+| Preservation main file DLP disc 1 side "A" |	2011_17_21_1a_s1.wav |
+| Preservation main file DLP disc 1 side "B" |	2011_17_21_1a_s2.wav |
+| Preservation main file DLP disc 2 side "A" |	2011_17_21_1b_s1.wav |
+| Preservation main file DLP disc 2 side "B" |	2011_17_21_1b_s2.wav |
+	
+ 
+Circumstance C:
+An interview spans two 7” open reel audio tapes, spooled onto NAB hubs contained in cardboard boxes.
+
+Tape 1						2016.8.5.1a
+	Tape 2						2016.8.5.1b
+	Hub 1						2016.8.5.1a_acc2
+	Hub 2						2016.8.5.1b_acc2
+	Box 1						2016.8.5.1a_acc1
+	Box 2						2016.8.5.1b_acc1
+	Preservation Main File – Tape 1 Side “A”		2016_8_5_1a_s1.wav 
+Preservation Main File – Tape 1 Side “B”		2016_8_5_1a_s2.wav
+	Preservation Main File – Tape 2 Side “A”		2016_8_5_1b_s1.wav 
+	Preservation Main File – Tape 2 Side “B”		2016_8_5_1b_s2.wav
+	
+Circumstance D:
+An album on a single audiocassette tape contained in a plastic case. There is labeling on the outside of the tape as well as an insert with album art and credits. 
+
+Tape						2017.2.3.1a
+	Case						2017.2.3.1a_acc2
+	Insert						2017.2.3.1a_acc1
+	Preservation Main File – Side “1”			2017_2_3_1a_s1.wav
+	Preservation Main File – Side “2”			2017_2_3_1a_s2..wav
+		
+Circumstance E:
+LP Box set containing one LP and one Double LP (DLP). The LP and the DLP each have their own gatefold jackets. All of which is contained in a cardboard box. 
+
+LP						2016.1.23.1a
+	DLP Disc 1					2016.1.23.1b
+	DLP Disc 2					2016.1.23.1c
+	LP Gatefold Jacket				2016.1.23.1a_acc1
+	DLP Gatefold Jacket				2016.1.23.1bc_acc1
+	Box set Outer Box				2016.1.23.1abc_acc1
+	LP Preservation Main File – Side “A”		2016_1_23_1a_s1.wav
+	LP Preservation Main File – Side “B”		2016_1_23_1a_s2.wav
+	DLP Disc 1 Preservation Main File – Side “A”		2016_1_23_1b_s1.wav
+	DLP Disc 1 Preservation Main File – Side “B”		2016_1_23_1b_s2.wav
+	DLP Disc 2 Preservation Main File – Side “A”		2016_1_23_1c_s1.wav
+	DLP Disc 2 Preservation Main File – Side “B”		2016_1_23_1c_s2.wav
