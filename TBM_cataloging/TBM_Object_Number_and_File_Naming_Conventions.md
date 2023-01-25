@@ -444,11 +444,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 <br/>
 
 >#### **Circumstance C:**
-*One VHS videotape with three shorter 'works' recorded on it, inside one plastic case. A notecard with handwriting on it is also in the plastic case.
-
-In this case, unlike with film, the archivist assigning numbers and inspecting the tape would does not attempt to seperate the works in any numbering. The tape and its assocaited preservation file are treated as one single object. The numbering would be similar to Circumstance A.
-
-### For the access derivatives, DER_02, DER_03, etc. could be created as segments of the whole tape/file.
+*One VHS videotape with three shorter 'works' recorded on it, inside one plastic case. A notecard with handwriting on it is also in the plastic case.*
 
 | Component | Object # |
 | --- | --- |
@@ -461,7 +457,6 @@ In this case, unlike with film, the archivist assigning numbers and inspecting t
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_03.mov/.mp4 |
 | | |
 
-The other option would be to splice all the 'works' together with a bit of leader between each and place them on one core and assign one work and instantiation number to the entire reel. This would again result in numbering similar to Circumstance A. 
 
 </details>
 <br/>
