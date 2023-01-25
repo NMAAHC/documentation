@@ -457,7 +457,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_03.mov/.mp4 |
 | | |
 
-
+</details>
 </details>
 <br/>
 
