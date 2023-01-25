@@ -634,7 +634,7 @@ Our main guideline, of which several examples follow below, is that the filename
 *An oral history on a single audiocassette tape contained in a plastic case with audio recording on both sides. There is labeling on the outside of the tape as well as an insert with minor notes on the oral history. *
 
 **Audio cassette:**  
->*accessionYear(2017).collectionNumber(2).workNumber(33).instantiationNumber(1)componentElement(a)*  
+>*accessionYear(2017).collectionNumber(2).workNumber(3).instantiationNumber(1)componentElement(a)*  
 
 **Audio cassette case:**
 >*accessionYear(2017).collectionNumber(2).workNumber(3).instantiationNumber(1)componentElement(a)_acc1*  
@@ -661,7 +661,7 @@ Our main guideline, of which several examples follow below, is that the filename
 <br/>
 
 ---
-		
+
 Circumstance E:
 LP Box set containing one LP and one Double LP (DLP). The LP and the DLP each have their own gatefold jackets. All of which is contained in a cardboard box. 
 
