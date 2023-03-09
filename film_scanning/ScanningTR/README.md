@@ -1,5 +1,5 @@
 ## Motion Picure Film Scanning Instructions for NMAAHC TR films
-### TR = Temporary Receipt - objects in the Museum's possession but not yet accessioned into the Collection
+#### TR = Temporary Receipt - objects in the Museum's possession but not yet accessioned into the Collection
 #### These scans are made for internal, pre-accession use and content/condition assessment. Don't let them out into the wild!
 
 1. Thread film through scanner film path
