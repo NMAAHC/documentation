@@ -5,8 +5,9 @@
 1. Thread film through scanner film path
 
 2. Click "Load Film" on the ScanStaion software
-
-![Load Film](https://raw.githubusercontent.com/BleakleyMcD/documentation/film_scanning/ScanningTR/TRscanning/01.JPG)    
+  
+<img src="https://user-images.githubusercontent.com/5872785/224589718-7ea1cb1b-68d0-46d2-a24e-a036e53f3762.JPG" width=50% height=50%>
+  
 ![Load Film](https://user-images.githubusercontent.com/5872785/224589718-7ea1cb1b-68d0-46d2-a24e-a036e53f3762.JPG)
 
 3. Choose the "Std 16mm 2.5K @ 60fps" configuration
