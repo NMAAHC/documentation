@@ -6,7 +6,7 @@
 
 2. Click "Load Film" on the ScanStaion software
 
-![Load Film](https://raw.githubusercontent.com/NMAAHC/documentation/film_scanning/ScanningTR/main/01.JPG)
+![Load Film](https://raw.githubusercontent.com/NMAAHC/documentation/film_scanning/ScanningTR/TRscanning/01.JPG)
 
 3. Choose the "Std 16mm 2.5K @ 60fps" configuration
 ### We will be creating SD 720x480 mp4 files
