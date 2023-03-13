@@ -3,17 +3,33 @@
 #### These scans are made for internal, pre-accession use and content/condition assessment. Don't let them out into the wild!
 
 1. Thread film through scanner film path
+<br>
+<br>
 
 2. Click "Load Film" on the ScanStation software
   
 <img src="https://user-images.githubusercontent.com/5872785/224589718-7ea1cb1b-68d0-46d2-a24e-a036e53f3762.JPG" width=75% height=75%>
+<br>
+<br>
 
 3. Choose the "Std 16mm 2.5K @ 60fps" configuration
-### We will be creating two files: 1 x SD 720x480 mp4 file and 1 x 2K 2048x1536 file
+    #### We will be creating two files: 1 x SD 720x480 mp4 file and 1 x 2K 2048x1536 file
 <img src="https://user-images.githubusercontent.com/5872785/224591190-36f1fc90-4a5e-4ec8-bff4-919214df4d40.JPG" width=75% height=75%>
 
+4. Click "Load Film"
+<br>
+<br>
 
+5. Shuttle forward to a frame with an image
+<br>
+<br>
 
+6. Determine your framing
+    #### make sure your aspect ration is locked to 4:3
+<br>
+
+7. Open 2K template for format - 8mm, 16mm, etc.
+    #### these can be found in S:\01_Scans\templates
 
 ![03](https://user-images.githubusercontent.com/5872785/224591312-3802534d-28a6-487b-a223-2d84ca68f8ee.JPG)
 ![04](https://user-images.githubusercontent.com/5872785/224591329-bc5e47dd-f955-4438-adf6-eabc84c590b1.JPG)
