@@ -10,7 +10,14 @@
 
 3. Choose the "Std 16mm 2.5K @ 60fps" configuration
 ### We will be creating two files: 1 x SD 720x480 mp4 file and 1 x 2K 2048x1536 file
+![02](https://user-images.githubusercontent.com/5872785/224591190-36f1fc90-4a5e-4ec8-bff4-919214df4d40.JPG)
 
+
+
+![03](https://user-images.githubusercontent.com/5872785/224591312-3802534d-28a6-487b-a223-2d84ca68f8ee.JPG)
+![04](https://user-images.githubusercontent.com/5872785/224591329-bc5e47dd-f955-4438-adf6-eabc84c590b1.JPG)
+![05](https://user-images.githubusercontent.com/5872785/224591337-e2db2269-d3c3-4809-bf69-9b62fa5fda14.JPG)
+![06](https://user-images.githubusercontent.com/5872785/224591345-963eba5c-4900-47e7-bbb7-b8ea7e47e945.JPG)
 
 
 
