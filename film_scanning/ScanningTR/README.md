@@ -4,13 +4,13 @@
 
 1. Thread film through scanner film path
 
-2. Click "Load Film" on the ScanStaion software
+2. Click "Load Film" on the ScanStation software
   
 <img src="https://user-images.githubusercontent.com/5872785/224589718-7ea1cb1b-68d0-46d2-a24e-a036e53f3762.JPG" width=75% height=75%>
 
 3. Choose the "Std 16mm 2.5K @ 60fps" configuration
-### We will be creating two files: 1 x SD 720x480 mp4 file and 1 x 2048x1536 2K file
-![Std 16mm 2.5K @ 60 fps](https://raw.githubusercontent.com/NMAAHC/documentation/film_scanning/ScanningTR/main/02.JPG)
+### We will be creating two files: 1 x SD 720x480 mp4 file and 1 x 2K 2048x1536 file
+
 
 
 
