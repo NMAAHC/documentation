@@ -190,7 +190,9 @@ Formal works include complete works that have been published or officially relea
 
 <br>
 
-<blockquote><details><summary>Clips or segments of formal works</summary>
+<blockquote><details><summary>
+Clips or segments of formal works
+</summary>
 When the object contains only a portion of a formal work, use the Object Name field with the formula “[Moving image format] clip from [Title of Work].” If the character limit allows, include more information about the subject of the clip: “[Carrier] clip of [subject] from [Title of Work].” Similarly, if the character limits are too restrictive, one can omit the carrier from the Object Name: “Clip of [long subject/Long Title of Work.]”
 
 <img src="images/TBM_cataloging_MI_06.jpg">
@@ -200,7 +202,9 @@ When the object contains only a portion of a formal work, use the Object Name fi
 
 <br>
 
-<details><summary>Series of formal works</summary>
+<details><summary>
+Series of formal works
+</summary>
 If a complete work is from a series/anthology, use the formula “[Series Title]: [Episode Title]” to generate a title for the Title field. The series title should also be entered in the Series/Portfolio field. An Object Name is not necessary unless it aids with disambiguation.
 
 <img src="images/TBM_cataloging_MI_07.jpg">
@@ -215,6 +219,39 @@ If only a portion of the work was accessioned, the Title field should be left bl
 <img src="images/TBM_cataloging_MI_09.jpg">
 <img src="images/TBM_cataloging_MI_08.jpg">
 
+###### FILM CLIP FROM CAMERA THREE: OVER THE TOP TO BEBOP (2015.275.16.1A): IN THE EXAMPLE ABOVE, ONLY A SEGMENT OF AN EPISODE, “OVER THE TOP TO BEBOP,” FROM THE TELEVISION SERIES CAMERA THREE WAS ACCESSIONED. THE OBJECT NAME FILM CLIP FROM CAMERA THREE: OVER THE TOP TO BEBOP IS GENERATED USING THE FORMULA ABOVE, WHERE A COLON SEPARATES THE SERIES TITLE FROM THE EPISODE TITLE. THE SERIES TITLE IS INCLUDED IN THE PORTFOLIO/SERIES FIELD AS WELL.
+</details>
+</details>
 
+<br>
 
+<details><summary>Informal works: Home movies and amateur works
+</summary>
+<p>
+
+**Home movies** are films or videos made without professional equipment or expertise, usually of activities involving family and friends.
+<p>
+
+Films made without professional equipment or expertise but of activities not usually associated with home movies are generally considered **amateur works**.
+<p>
+
+Both home movies and amateur films are types of informal works and are cataloged similarly.
+
+<blockquote><details><summary>
+Series of home movies and other informal works
+</summary>
+<p>
+
+Home movies are unique in that they often are compilations of various clips on one reel or tape, with multiple reels or tapes in a collection. These are not formal works, however, assigning descriptive object names is difficult given the variety of clips (vacation, birthdays, singing) and the sameness of overall topic (Holman family). For this reason, assigning a title for the overall collection with sequential numbering is helpful.
+<p>
+
+Collections or series of works that are not home movies but are also not formal works benefit from a similar titling structure for the same reasons.
+
+<img src="images/TBM_cataloging_MI_10.jpg">
+
+###### MAX BOND, SR. COLLECTION OF FAMILY HOME MOVIES (2016.16.1ab - .10abc): TITLES WITH SEQUENTIAL NUMBERS ARE ASSIGNED TO EACH RECORD.
+
+<img src="images/TBM_cataloging_MI_11.jpg">
+
+###### REVEREND S. S. JONES COLLECTION OF FAMILY HOME MOVIES (2011.79.1.1abc - .9abc): TITLES WITH SEQUENTIAL REEL NUMBERS ARE ASSIGNED TO THE COLLECTION.
 
