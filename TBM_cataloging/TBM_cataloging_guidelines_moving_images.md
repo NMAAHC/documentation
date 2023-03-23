@@ -208,8 +208,12 @@ If a complete work is from a series/anthology, use the formula “[Series Title]
 
 ###### CAMERA THREE: THE JAZZ OF WILBUR DE PARIS (2015.275.41.1A): IN THE EXAMPLE ABOVE, THE SERIES TITLE, CAMERA THREE, IS INCLUDED IN THE TITLE FIELD BEFORE THE COLON AND THE EPISODE TITLE APPEARS AFTER THE COLON WITHOUT QUOTES. THE SERIES TITLE IS ALSO INCLUDED IN THE PORTFOLIO/SERIES FIELD.
 
+<p>
 
+If only a portion of the work was accessioned, the Title field should be left blank, and an Object Name should be created using the formula for “Clips or segments for formal works” above. The series name should still be entered in the Series/Portfolio field.
 
+<img src="images/TBM_cataloging_MI_09.jpg">
+<img src="images/TBM_cataloging_MI_08.jpg">
 
 
 
