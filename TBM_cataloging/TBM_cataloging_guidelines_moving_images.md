@@ -43,7 +43,7 @@ Depending on the type of instantiation and the particularities of the collection
 <img src="images/TBM_cataloging_MI_01.jpg">
 <br>
 <br>
-<img src="https://github.com/BleakleyMcD/documentation/blob/TBM_cataloging/TBM_cataloging/TBM_cataloging_MI_02.jpg?raw=true">
+<img src="images/TBM_cataloging_MI_02.jpg">
 <br>
 
 > #### HANDS OF INGE (2012.79.1.9.1ac-.2a): in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, but details of the physical characteristics of the different instantiations will vary.
@@ -133,8 +133,39 @@ Archival collections, such as the Pearl Bowser archival collection (A2012.79), w
 
 *[AccessionYear].[CollectionNumber].[SeriesNumber].[WorkNumber].[InstantiationNumber][ComponentElement]*
 
-AFRICAN SPEAKERS (2012.79.1.2.1AB-.2AB): IN THE EXAMPLE ABOVE, TWO INSTANTIATIONS OF AFRICAN SPEAKERS WERE ACCESSIONED AS PART OF THE PEARL BOWSER ARCHIVAL COLLECTION: 2012.79.1.2.1AB AND 2019.79.1.2.2AB, A BLACK-AND-WHITE COMBINED NEGATIVE AND A POSITIVE BLACK-AND-WHITE. THE ACCESSION YEAR IS 2012, THE COLLECTION NUMBER IS 79, THE SERIES NUMBER IS 1, THE WORK NUMBER IS 2, THE INSTANTIATION NUMBERS ARE 1 AND 2 RESPECTIVELY AND THE COMPONENTS A & B REPRESENT EACH REEL OF ACETATE FILM.
+<br>
+
+<img src="images/TBM_cataloging_MI_03.jpg">
+
+###### AFRICAN SPEAKERS (2012.79.1.2.1AB-.2AB): IN THE EXAMPLE ABOVE, TWO INSTANTIATIONS OF AFRICAN SPEAKERS WERE ACCESSIONED AS PART OF THE PEARL BOWSER ARCHIVAL COLLECTION: 2012.79.1.2.1AB AND 2019.79.1.2.2AB, A BLACK-AND-WHITE COMBINED NEGATIVE AND A POSITIVE BLACK-AND-WHITE. THE ACCESSION YEAR IS 2012, THE COLLECTION NUMBER IS 79, THE SERIES NUMBER IS 1, THE WORK NUMBER IS 2, THE INSTANTIATION NUMBERS ARE 1 AND 2 RESPECTIVELY AND THE COMPONENTS A & B REPRESENT EACH REEL OF ACETATE FILM.
 </details>
+</blockquote>
+
+<br>
+
+<blockquote>
+<details><summary>Numbering Accessories</summary>
+<p>
+
+- #### Projection reels and film canisters
+Projection reels, film cores, canisters and film laboratory paper ephemera are treated as Accessory Components to the film component which they accompany. Accessories are not accessioned objects and therefore receive suffixes such as _acc1, _acc2, _acc3 etc.
+
+<br>
+
+<img src="images/TBM_cataloging_MI_04.jpg">
+
+###### LET THE CHURCH SAY AMEN! (2012.79.1.74.1ab): IN THE EXAMPLE ABOVE, THE WORK LET THE CHURCH SAY AMEN! IS SPREAD ACROSS TWO REELS OF FILM. THE FIRST REEL'S COMPONENT NUMBER IS 2012.79.1.74.1a AND THE SECOND REEL IS 2012.79.1.74.1b. THE PROJECTION REEL THE FIRST FILM IS ON IS 2012.79.1.74.1a_acc1 AND THE PROJECTION REEL THE SECOND REEL OF FILM IS ON IS 2012.79.1.74.1b_acc1. THE METAL CANISTERS HOLDING THE REELS ARE 2012.79.1.74.1a_acc2 AND 2012.79.1.74.1b_acc2, RESPECTIVELY. THE ORIGINAL SHIPPING CONTAINER THEY CAME IN IS 2012.79.1.74.1ab_acc1.
+</details></blockquote>
+
+<br>
+
+See the NMAAHC_MediaCatalogingGuidelines_201610112 document for more about numbering moving image objects within the Collection.
+
+</details>
+
+<br>
+
+<details><summary>Cataloging TMS Core Fields</summary>
 
 
 
