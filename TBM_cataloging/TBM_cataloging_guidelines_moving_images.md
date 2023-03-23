@@ -166,6 +166,48 @@ See the NMAAHC_MediaCatalogingGuidelines_201610112 document for more about numbe
 <br>
 
 <details><summary>Cataloging TMS Core Fields</summary>
+<p>
+<blockquote><details><summary>Classification</summary>
+
+<p>
+
+All film and video objects are cataloged with the classification Media Arts-Film and Video. For time-based media artwork, add the Visual Arts classification as well. For archival collections with time-based media, both the Archival Collection and Media Arts-Film and Video classifications should be used.
+</details></blockquote>
+<br>
+<blockquote><details><summary>Object Names and Titles</summary>
+
+<p>
+
+<blockquote><details><summary>Formal works</summary>
+
+<p>
+
+Formal works include complete works that have been published or officially released with a title, or for which a title is provided within the work itself or by the creator. For these objects, enter the formal title in the Title field. Use the Object Name field in addition to the Title only for disambiguation, for example, if the collection has multiple instantiations of the same work.
+
+<img src="images/TBM_cataloging_MI_05.jpg">
+
+###### BOY! WHAT A GIRL (2015.167.1.1AB): IN THE EXAMPLE ABOVE, THE FILM’S OFFICIALLY RELEASED TITLE IS INCLUDED IN THE TITLE FIELD. AN OBJECT NAME, THOUGH OPTIONAL, IS NOT ASSIGNED.
+
+<br>
+
+<blockquote><details><summary>Clips or segments of formal works</summary>
+When the object contains only a portion of a formal work, use the Object Name field with the formula “[Moving image format] clip from [Title of Work].” If the character limit allows, include more information about the subject of the clip: “[Carrier] clip of [subject] from [Title of Work].” Similarly, if the character limits are too restrictive, one can omit the carrier from the Object Name: “Clip of [long subject/Long Title of Work.]”
+
+<img src="images/TBM_cataloging_MI_06.jpg">
+
+###### FILM CLIP OF “SHEIK OF ARABY” FROM TIN PAN ALLEY (2015.275.29.1A): IN THE EXAMPLE ABOVE, ONLY A SCENE WHERE THE ACTORS PERFORM “SHEIK OF ARABY” IN THE FEATURE FILM TIN PAN ALLEY WAS ACCESSIONED. THE OBJECT NAME “FILM CLIP OF ‘SHEIK OF ARABY’ FROM TIN PAN ALLEY” IS GENERATED USING THE FORMULA ABOVE. THE TITLE FIELD IS LEFT BLANK.
+</details>
+
+<br>
+
+<details><summary>Series of formal works</summary>
+If a complete work is from a series/anthology, use the formula “[Series Title]: [Episode Title]” to generate a title for the Title field. The series title should also be entered in the Series/Portfolio field. An Object Name is not necessary unless it aids with disambiguation.
+
+<img src="images/TBM_cataloging_MI_07.jpg">
+<img src="images/TBM_cataloging_MI_08.jpg">
+
+###### CAMERA THREE: THE JAZZ OF WILBUR DE PARIS (2015.275.41.1A): IN THE EXAMPLE ABOVE, THE SERIES TITLE, CAMERA THREE, IS INCLUDED IN THE TITLE FIELD BEFORE THE COLON AND THE EPISODE TITLE APPEARS AFTER THE COLON WITHOUT QUOTES. THE SERIES TITLE IS ALSO INCLUDED IN THE PORTFOLIO/SERIES FIELD.
+
 
 
 
