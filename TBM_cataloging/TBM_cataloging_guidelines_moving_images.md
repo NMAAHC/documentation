@@ -225,7 +225,8 @@ If only a portion of the work was accessioned, the Title field should be left bl
 
 <br>
 
-<details><summary>Informal works: Home movies and amateur works
+<details><summary>
+Informal works: Home movies and amateur works
 </summary>
 <p>
 
@@ -250,8 +251,73 @@ Collections or series of works that are not home movies but are also not formal 
 <img src="images/TBM_cataloging_MI_10.jpg">
 
 ###### MAX BOND, SR. COLLECTION OF FAMILY HOME MOVIES (2016.16.1ab - .10abc): TITLES WITH SEQUENTIAL NUMBERS ARE ASSIGNED TO EACH RECORD.
+<p>
+<p>
 
 <img src="images/TBM_cataloging_MI_11.jpg">
 
 ###### REVEREND S. S. JONES COLLECTION OF FAMILY HOME MOVIES (2011.79.1.1abc - .9abc): TITLES WITH SEQUENTIAL REEL NUMBERS ARE ASSIGNED TO THE COLLECTION.
+</details>
 
+<br>
+
+<details><summary>
+Individual home movies, amateur films, and other informal works
+</summary>
+<p>
+
+If the home movie or informal work is not part of a series, create an object name using the formula "[Carrier] footage of [description of content]" or "Home movie footage of [description of content]."
+
+<img src="images/TBM_cataloging_MI_12.jpg">
+
+###### Film footage of “Bloody Monday” protests & 16th Street Baptist Church bombing (2012.79.1.107.1a)
+
+<img src="images/TBM_cataloging_MI_13.jpg">
+
+##### HOME MOVIE OF HUNTS POINT CELEBRATION (2012.79.1.15.1a)
+</details>
+</details>
+
+<br>
+
+<details><summary>
+Other types of works
+</summary>
+<p>
+
+<blockquote><details><summary>
+Compilation Reels
+</summary>
+Sometimes, multiple intellectually unrelated works are spliced together on a single reel of film. For example, a film editor might create a demo reel containing multiple projects that they have worked on, like a portfolio. Similarly, a film enthusiast might splice scenes from several movies together on a single reel of film. If the spliced films are (1) complete works and (2) have formal titles, enter the formal titles in the Title field using a slash (/) to separate them and use the format “Compilation reel of [some unifying characteristic]” to generate an Object Name. However, if they are not complete works or do not all have formal titles, only add the Object Name.
+
+<img src="images/TBM_cataloging_MI_14.jpg">
+
+##### **Film clips with the Benny Goodman Trio performing two songs (2015.275.17.1a)**: In the example above, two Benny Goodman Trio performances, “Nice Work If You Can Get It” and “Avalon” were spliced together on a single reel of film. The formal titles of the songs are entered in the Title field, separated by a slash and an Object Name that assists with disambiguation is added to the Object Name field.
+
+<br>
+
+<img src="images/TBM_cataloging_MI_15.jpg">
+
+##### **Compilation reel with clips from the Judy Garland Show (2015.275.46.1a)**: In the example above, clips from **The Judy Garland Show** (television series) and **The Judy Garland Show** (television special) were spliced together in a single reel of film. Neither consisted of complete works; therefore, the Title field is left blank.
+</details>
+</details>
+</blockquote>
+</blockquote>
+<br>
+
+<blockquote><details><summary>
+Constituents
+</summary>
+<p>
+
+There are two factors that typically influence how constituents should be linked to catalog records for moving images: (1) the type of constituent and (2) the Type of Work. There are two types of constituents, active constituents, and passive constituents, and four (4) broad Types of Works, formal and informal works; and fiction and nonfiction works, that will determine the role types that should be applied to constituents as well as the order in which they should appear.
+<p>
+
+An active/creator constituent related to the creation of the object should always be listed first. After the significant active/creator constituent(s) have been listed, continue with the remaining constituents, regardless of whether they had an active or passive role in the object’s creation. These constituents can be listed in order of significance, but this is not a strict rule. Constituents related to the object’s provenance are typically listed last.
+<p>
+
+The table below can help catalogers determine the correct role types to apply to constituents and the order in which they should appear. However, it is by no means exhaustive. Furthermore, as mentioned in earlier paragraphs, the distinction between Types of Works (especially formal and informal) is not always clearly defined. Similarly, formal works can be fictional or nonfiction and the same is true for informal works. Catalogers should consult with the Collections Information Specialist or the Media Archivist when uncertain about which role types might be most appropriate in a specific situation.
+
+<img src="images/TBM_cataloging_MI_16.jpg">
+
+##### **Black Journal: The Black Woman (2017.32.1.1ab)**: In the example above, an episode of an education television program (nonfiction, formal work), the active constituents are the director and producer and are listed first. The remaining constituents are listed afterwards, using roles typical for nonfiction works, such as “Interview of,” “Interview by,” and “Subject of.”
