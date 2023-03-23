@@ -40,7 +40,7 @@ One of the first steps in the cataloging process is the retrieval and evaluation
 <br>
 <details><summary>Item-level records vs. Components</summary>
 Depending on the type of instantiation and the particularities of the collection in which it was acquired, cataloging may utilize separate TMS object records for each instantiation or combine several instantiations from the same accession into a single TMS object record using components. Instantiations from different accessions should always receive separate TMS records to properly record the acquisition information for each. With either approach, be sure to record the differences between the instantiations (format, attributes, dimensions, etc.) thoroughly so that users can distinguish them from one another easily. Consult with the Media Archivist, Collections Information Specialist and/or Registrars if unsure when instantiations should receive separate TMS records
-<img src="https://github.com/BleakleyMcD/documentation/blob/TBM_cataloging/TBM_cataloging/TBM_cataloging_MI_01.jpg?raw=true">
+<img src="images/TBM_cataloging_MI_01.jpg">
 <br>
 <br>
 <img src="https://github.com/BleakleyMcD/documentation/blob/TBM_cataloging/TBM_cataloging/TBM_cataloging_MI_02.jpg?raw=true">
