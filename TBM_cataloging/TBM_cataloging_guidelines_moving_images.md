@@ -437,12 +437,153 @@ An active/creator constituent related to the creation of the object should alway
 
 The table below can help catalogers determine the correct role types to apply to constituents and the order in which they should appear. However, it is by no means exhaustive. Furthermore, as mentioned in earlier paragraphs, the distinction between Types of Works (especially formal and informal) is not always clearly defined. Similarly, formal works can be fictional or nonfiction and the same is true for informal works. Catalogers should consult with the Collections Information Specialist or the Media Archivist when uncertain about which role types might be most appropriate in a specific situation.
 
-| Type of Work | Constituent Type | Role &nbsp; &nbsp; &nbsp; | Guidelines |
+| Type of Work | Constituent Type | Role | Guidelines |
 | --- | --- | ------------ | ------------------------------ |
-| **Formal** <br> feature films, <br> television shows | **Active** directors, producers, editors, writers, interviewers, recording artists, composers | Directed by, Produced by, Edited by, Written by, Narrated by, Interviewed by, Recorded by, Composed by | List the director first for motion pictures or single television programs. For television series, it's sometimes more useful to list the producer or executive producer first. If a single individual has multiple roles in the creation of a formal work, it is sometimes useful to list several of these roles. If the soundtrack or score bears some significance, the recording artist(s) or composer(s) can be linked using the “Recorded by” or “Composed by” role types. |
+| **Formal** <br> feature films, <br> television shows | **Active** <br><br> - directors, producers, editors, writers, interviewers, recording artists, composers | Directed by, Produced by, Edited by, Written by, Narrated by, Interviewed by, Recorded by, Composed by | List the director first for motion pictures or single television programs. For television series, it's sometimes more useful to list the producer or executive producer first. If a single individual has multiple roles in the creation of a formal work, it is sometimes useful to list several of these roles. If the soundtrack or score bears some significance, the recording artist(s) or composer(s) can be linked using the “Recorded by” or “Composed by” role types. |
 | **Informal or Amateur** | **Active** amateur filmmakers, student filmmakers | Created by | Use the “Created by” constituent role type for nformal/amateur works or to indicate the individual(s) responsible for the work’s creation when more specific role types cannot be determined | 
 | **Fictional Works** Fiction films, reenactments of historical events| **Passive** actors,portrayed individuals, institutions depicted | Subject of | For fiction works, use the role “Subject of” when entering actors/actresses featured. In these cases, the linked constituent record should show the actor’s given name (as opposed to the fiction character’s). In the Description field, one might include the fiction characters’ names in plot summaries/scene descriptions followed by the actors’ given name in parentheses. For reenactments of historical events, both the historical figure(s) portrayed, and the given name of the actor(s) should be listed using the “Subject of” role type. |
 | **Nonfiction Works** Interviews, documentaries, video art | **Passive** Interviewees, portrayed individuals,institutions depicted |
+
+<br>
+
+<figure>
+    <table border="1" width="100%">
+        <thead>
+            <tr>
+                <th>Type of Work</th>
+                <th>Constituent Type</th>
+                <th>Role</th>
+                <th>Guidelines</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <strong>Formal</strong>
+                    <ul>
+                        <li>feature films</li>
+                        <li>television shows</li>
+                    </ul>
+                </td>
+                <td>
+                     <strong>Active</strong>
+                     <ul>
+                        <li>directors</li>
+                        <li>producers</li>
+                        <li>editors</li>
+                        <li>writers</li>
+                        <li>interviewers</li>
+                        <li>recording artists</li>
+                        <li>composers</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Directed by
+                        <li>Produced by
+                        <li>Edited by
+                        <li>Written by
+                        <li>Narrated by
+                        <li>Interviewed by
+                        <li>Recorded by, Composed by</li>
+                    </ul>
+                </td>
+                <td>
+                    <p>
+                        List the director first for motion pictures 
+                        or single television programs. For television series, 
+                        it is sometimes more useful to list the producer 
+                        or executive producer first. If a single individual 
+                        has multiple roles in the creation of a formal work, 
+                        it is sometimes useful to list several of these roles. 
+                        If the soundtrack or score bears some significance, 
+                        the recording artist(s) or composer(s) can be 
+                        linked using the “Recorded by” or “Composed by” role types.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Informal or Amateur</strong>
+                </td>
+                <td>
+                    <strong>Active</strong>
+                    <ul>
+                        <li>amateur filmmakers</li>
+                        <li>student filmmakers</li>
+                    </ul>
+                </td>
+                <td>
+                    <p>Created by</p>
+                </td>
+                <td>
+                    <p>
+                        Use the “Created by” constituent role type for 
+                        informal/amateur works or to indicate the individual(s) 
+                        responsible for the work's creation when more specific role 
+                        types cannot be determined.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Fictional Works</strong>
+                    <ul>
+                        <li>Fiction films</li>
+                        <li>reenactments of historical events</li>
+                    </ul>
+                </td>
+                <td>
+                    <strong>Passive</strong>
+                    <ul>
+                        <li>actors</li>
+                        <li>portrayed individuals</li>
+                        <li>institutions depicted</li>
+                    </ul>
+                </td>
+                <td>
+                    <p>Subject of</p>
+                </td>
+                <td>
+                    <p>
+                        For fiction works, use the role 
+                        "Subject of" when entering actors/actresses 
+                        featured. In these cases, the linked 
+                        constituent record should show the 
+                        actor's given name (as opposed to the fiction character's). 
+                        In the Description field, one might include 
+                        the fiction characters' names in plot summaries/scene 
+                        descriptions followed by the actors' given 
+                        name in parentheses. For reenactments 
+                        of historical events, both the historical 
+                        figure(s) portrayed, and the given name of the actor(s) 
+                        should be listed using the "Subject of" role type.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Nonfiction Works</strong>
+                    <ul>
+                        <li>Interviews</li>
+                        <li>documentaries</li>
+                        <li>video art</li>
+                    </ul>
+                </td>
+                <td>
+                    <strong>Passive</strong>
+                    <ul>
+                        <li>Interviewees</li>
+                        <li>portrayed individuals</li>
+                        <li>institutions depicted</li>
+                    </ul>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+</figure>
 
 <br>
 
