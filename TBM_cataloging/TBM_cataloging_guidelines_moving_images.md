@@ -438,12 +438,13 @@ An active/creator constituent related to the creation of the object should alway
 The table below can help catalogers determine the correct role types to apply to constituents and the order in which they should appear. However, it is by no means exhaustive. Furthermore, as mentioned in earlier paragraphs, the distinction between Types of Works (especially formal and informal) is not always clearly defined. Similarly, formal works can be fictional or nonfiction and the same is true for informal works. Catalogers should consult with the Collections Information Specialist or the Media Archivist when uncertain about which role types might be most appropriate in a specific situation.
 
 | Type of Work | Constituent Type | Role | Guidelines |
-| --- | --- | --- | --- |
+| --- | --- | --- | ------------------------------ |
 | **Formal** feature films, television shows | **Active** directors, producers, editors, writers, interviewers, recording artists, composers | Directed by, Produced by, Edited by, Written by, Narrated by, Interviewed by, Recorded by, Composed by | List the director first for motion pictures or single television programs. For television series, it's sometimes more useful to list the producer or executive producer first. If a single individual has multiple roles in the creation of a formal work, it is sometimes useful to list several of these roles. If the soundtrack or score bears some significance, the recording artist(s) or composer(s) can be linked using the “Recorded by” or “Composed by” role types. |
-| Film | 2021.49.1 | No Maps On My Taps | Object Number for a work that spans two reels of film (a) & (b) |
-| Film | 2018.55 | To Be Young, Gifted, And Black | SObject Number for a work that spans three reels of film (a), (b) & (c) |
-| Videocassette |
-| DVD |
+| **Informal or Amateur** | **Active** amateur filmmakers, student filmmakers | Created by | Use the “Created by” constituent role type for nformal/amateur works or to indicate the individual(s) responsible for the work’s creation when more specific role types cannot be determined | 
+| **Fictional Works** Fiction films, reenactments of historical events| **Passive** actors,portrayed individuals, institutions depicted | Subject of | For fiction works, use the role “Subject of” when entering actors/actresses featured. In these cases, the linked constituent record should show the actor’s given name (as opposed to the fiction character’s). In the Description field, one might include the fiction characters’ names in plot summaries/scene descriptions followed by the actors’ given name in parentheses. For reenactments of historical events, both the historical figure(s) portrayed, and the given name of the actor(s) should be listed using the “Subject of” role type. |
+| **Nonfiction Works** Interviews, documentaries, video art | **Passive** Interviewees, portrayed individuals,institutions depicted |
+
+<br>
 
 <img src="images/TBM_cataloging_MI_16.jpg">
 
@@ -506,7 +507,14 @@ Medium
 
 Enter the material as enumerated in the Getty Art and Architecture Thesaurus (AAT).
 
-put chart here
+| Object Type | Medium |
+| --- | --- |
+| film | acetate film, polyester film, or cellulose nitrate film |
+| Videocassettes (VHS, Betacam, U-matic) | plastic with metal on polyester |
+| DVD and optical discs | aluminum and polycarbonate |
+| PDCO | Digital (entered into the Medium label manually) |
+
+<br>
 
 Reels and cans should only be included in the medium if they are accessioned Components. Do not include materials for Accessory reels and cans in the “Medium” field. Instead, they can be entered in the Physical Description field within the Components module if necessary.
 </details>
