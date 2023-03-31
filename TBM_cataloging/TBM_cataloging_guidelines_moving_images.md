@@ -511,7 +511,7 @@ The table below can help catalogers determine the correct role types to apply to
                     </ul>
                 </td>
                 <td>
-                    <p>Created by       </p>
+                    <p>Created by &nbsp; &nbsp; &nbsp;</p>
                 </td>
                 <td>
                     <p>
@@ -539,7 +539,7 @@ The table below can help catalogers determine the correct role types to apply to
                     </ul>
                 </td>
                 <td>
-                    <p>Subject of       </p>
+                    <p>Subject of &nbsp; &nbsp; &nbsp;</p>
                 </td>
                 <td>
                     <p>
@@ -575,8 +575,8 @@ The table below can help catalogers determine the correct role types to apply to
                         <li>institutions depicted</li>
                     </ul>
                 </td>
-                <td>&nbsp;      </td>
-                <td>&nbsp;      </td>
+                <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+                <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
             </tr>
         </tbody>
     </table>
