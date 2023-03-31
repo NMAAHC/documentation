@@ -448,10 +448,10 @@ The table below can help catalogers determine the correct role types to apply to
 
 <figure>
     <table border="1" width="100%">
-        <col style="width:25%">
-	    <col style="width:25%">
-	    <col style="width:25%">
-        <col style="width:25%"
+        <col style="width:20%">
+	    <col style="width:20%">
+	    <col style="width:40%">
+        <col style="width:20%"
         <thead>
         <tr>
             <th>Type of Work</th>
