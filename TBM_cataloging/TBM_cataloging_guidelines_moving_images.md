@@ -448,13 +448,17 @@ The table below can help catalogers determine the correct role types to apply to
 
 <figure>
     <table border="1" width="100%">
+        <col style="width:25%">
+	    <col style="width:25%">
+	    <col style="width:25%">
+        <col style="width:25%"
         <thead>
-            <tr>
-                <th>Type of Work</th>
-                <th>Constituent Type</th>
-                <th>Role</th>
-                <th>Guidelines</th>
-            </tr>
+        <tr>
+            <th>Type of Work</th>
+            <th>Constituent Type</th>
+            <th>Role</th>
+            <th>Guidelines</th>
+        </tr>
         </thead>
         <tbody>
             <tr>
@@ -466,8 +470,8 @@ The table below can help catalogers determine the correct role types to apply to
                     </ul>
                 </td>
                 <td>
-                     <strong>Active</strong>
-                     <ul>
+                        <strong>Active</strong>
+                        <ul>
                         <li>directors</li>
                         <li>producers</li>
                         <li>editors</li>
