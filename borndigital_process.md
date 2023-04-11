@@ -2,6 +2,7 @@
 
 This document details the steps for TBMA team members to process PDCO material received for Museum accession considerations. Members will refer to the Smartsheet questionnaires filled by curatorial staff members and the team share folder (links below) to prepare collections for pre-acquisition, accession, and DAMs ingestion.
 
+
 ## Pre-Acquisition
 1. Receiving new entry on Time-Base Media questionnaire
    - Team leader receive notifications when additions/changes are made to this sheet.
@@ -19,6 +20,9 @@ This document details the steps for TBMA team members to process PDCO material r
 4.	In 01_TBM_CollectionsQuestionnaire (smartsheet), click the checkbox in Move to TR Sheet column to move row to 02_TBM_TRsTracking (smartsheet)
 5.	Team leader will assign Team member to conduct TR review (by selecting team member in TBM Archives & Conservation team column on 02_TBM_TRsTracking)
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231220410-7be320d6-bd1e-44bd-b758-42df01dd54b3.png">
+
+
 ## Files Review Process
 
 Team member who is assigned to review the files in TR status will receive email notification that details the information of the collection to be review and file location. The object of the review process is to perform assessment of the file qualities, report any technical issues and generate the supplementary files (listed below) for the proposed accession media.
@@ -34,26 +38,36 @@ Team member who is assigned to review the files in TR status will receive email 
 ```
            ≈:≈ makemediainfo Nelson\ Malden_Edited_100322.mov Nelson\ Malden_Unedited.mov
 ```
-      - CLI: _**mediainfo -f [file] >> [filename]_mediainfo_YYYYMMDD.txt**_
    
-   a mediainfo file named **[file]_mediainfo_YYYMMDD.txt** (e.g. Nelson Malden_Edited_100322.mov_mediainfo_2022-12-09.txt) will be generated in the same directory as your input for each qualified file in the folder/package.
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231221779-892cc456-0524-4213-bcb5-9a5e9ad47b25.png">
 
-3.	Review mediainfo.txt file to fill out TBM_Pre-acquisitionAssessment.pdf
-a.	Some of this info can be found in the TBM_PDCO_TR-assignment-info.xlsx
+a mediainfo file named **[file]_mediainfo_YYYMMDD.txt** (e.g. Nelson Malden_Edited_100322.mov_mediainfo_2022-12-09.txt) will be generated in the same directory as your input for each qualified file in the folder/package.
 
-4.	Generate checksum: 
-a.	nmaahcmm:  makechecksum [file or package 1] [file or package 2] [file or package 3]
+If mediainfo is installed in your machine, you can use `mediainfo -f [file] >> [filename]_mediainfo_YYYYMMDD.txt` to generate the report as well.
 
-≈:≈ makechecksum TR2022-97_NelsonMalden/Nelson\ Malden_Edited_100322.mov TR2022-97_NelsonMalden/Nelson\ Malden_Unedited.mov
 
-i.	a .md5 checksum file (e.g. TR2021-51_2022-06-29_checksums.md5) will be generated in the same directory as your input.
+3. Review mediainfo.txt file to fill out TBM_Pre-acquisitionAssessment.pdf. Some of this info can be found in the TBM_PDCO_TR-assignment-info.xlsx
+4. Generate checksum: 
+   - nmaahcmm:  makechecksum [file or package 1] [file or package 2] [file or package 3]
+```
+           ≈:≈ makechecksum TR2022-97_NelsonMalden/Nelson\ Malden_Edited_100322.mov TR2022-97_NelsonMalden/Nelson\ Malden_Unedited.mov
+```
 
-b.	CLI:  
-i.	(MAC) md5deep -bre [file or package] >> [filepath]/TR20xx-xx_YYYY-MM-DD_checksums.md5
-ii.	(PC) md5sum [file path]/[file names] >> [filepath]/ TR20xx-xx_YYYY-MM-DD_checksums.md5
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231223587-20f7df59-7248-460c-9e18-937ad8b0435a.png">
+
+A md5 checksum file (e.g. TR2021-51_2022-06-29_checksums.md5) will be generated in the same directory as your input.
+
+You can also use the command `md5deep -bre [file or package] >> [filepath]/TR20xx-xx_YYYY-MM-DD_checksums.md5` on MAC terminal, or `md5sum [file path]/[file names] >> [filepath]/ TR20xx-xx_YYYY-MM-DD_checksums.md5` on PC cmd to generate md5 checksums.
+
 
 5.	A review completed TR folder would look like below:
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231224707-ffdb4e55-1b21-4b67-a327-0a48bd3b195d.png">
+
 6.	Attached the metadata files (mediainfo files, md5s) to the corresponding row in the Smartsheet:
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231225081-d28c852f-72ae-44df-97b2-58eeb2bee7c2.png">
+
 7.	Move Folder to 04_TR-reviews_inventories > 02_reviewComplete
 
 8.	Copy TR20xx-xx_TBM_Pre-acquisitionAssessment into the J-drive accession folder.
@@ -77,7 +91,9 @@ A good way to check on the recent accession numbers is to type the TR into TMS a
 	≈:≈ rename 
 	Please enter a Base File Name: TR2022-97
 Plese drag in a list of files: Nelson Malden_Unedited.mov Nelson Malden_Edited_100322.mov 
-		
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231225339-514ea0e9-f9a2-4552-b55d-b6b5f9cf2d92.png">
+
 (a SI_DAMS-MD_UPDATE_2021_VIDEOTemplate.csv with original file names will be generated in the script)
 5.	Rerun checksum for the media files
 6.	Create a folder with accession number in 01_accessioned
