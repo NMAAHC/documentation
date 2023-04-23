@@ -65,7 +65,13 @@ Item-level records vs. Components
 </summary>
 <p>
 
-Depending on the type of instantiation and the particularities of the collection in which it was acquired, cataloging may utilize separate TMS object records for each instantiation or combine several instantiations from the same accession into a single TMS object record using components. Instantiations from different accessions should always receive separate TMS records to properly record the acquisition information for each. With either approach, be sure to record the differences between the instantiations (format, attributes, dimensions, etc.) thoroughly so that users can distinguish them from one another easily. Consult with the Media Archivist, Collections Information Specialist and/or Registrars if unsure when instantiations should receive separate TMS records
+Depending on the type of instantiation and the particularities of the collection in which it was acquired, 
+cataloging may utilize separate TMS object records for each instantiation or combine several instantiations 
+from the same accession into a single TMS object record using components. Instantiations from different accessions 
+should always receive separate TMS records to properly record the acquisition information for each. With either approach, 
+be sure to record the differences between the instantiations (format, attributes, dimensions, etc.) thoroughly so 
+that users can distinguish them from one another easily. Consult with the Media Archivist, Collections Information Specialist 
+and/or Registrars if unsure when instantiations should receive separate TMS records
 
 <img src="images/TBM_cataloging_MI_01.jpg">
 
@@ -75,7 +81,10 @@ Depending on the type of instantiation and the particularities of the collection
 
 <br>
 
-##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, but details of the physical characteristics of the different instantiations will vary.
+##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: in the example above, a work print and a release print of HANDS OF INGE were 
+accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, 
+while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, 
+but details of the physical characteristics of the different instantiations will vary.
 </details>
 
 <br>
@@ -86,10 +95,17 @@ Determining Moving Image Works or Content
 </summary>
 <p>
 
-When possible, viewing the content in part or in its entirety is beneficial for cataloging. If the object has been digitized by NMAAHC, its content may be available through the Digital Asset Management System (DAMS), or via the DAMS Manager or Media Archivist. The NMAAHC film collection includes commercial releases in addition to rare and unique works, which may be available through external sources such as YouTube, Internet Archive, or the American Archive of Public Broadcasting.
+When possible, viewing the content in part or in its entirety is beneficial for cataloging. 
+If the object has been digitized by NMAAHC, its content may be available through the Digital Asset Management System (DAMS), 
+or via the DAMS Manager or Media Archivist. The NMAAHC film collection includes commercial releases in addition to rare and unique works, 
+which may be available through external sources such as YouTube, Internet Archive, or the American Archive of Public Broadcasting.
 <p>
 
-Film databases such as Turner Classic Movies (TCM), the Internet Movie Database (IMDb), Internet Archive, American Film Institute (AFI), library databases and other reputable sources are all useful reservoirs of information, as are Media Archives and Conservation Team members and reference library. Survey several sources to get a comprehensive account of the work. Please note that when record of a work cannot be found in external sources, that rare work requires more detailed and comprehensive cataloging description than widely known commercial works.
+Film databases such as Turner Classic Movies (TCM), the Internet Movie Database (IMDb), Internet Archive, American Film Institute (AFI), 
+library databases and other reputable sources are all useful reservoirs of information, 
+as are Media Archives and Conservation Team members and reference library. 
+Survey several sources to get a comprehensive account of the work. Please note that when record of a work cannot be found in external sources, 
+that rare work requires more detailed and comprehensive cataloging description than widely known commercial works.
 <p>
 
 When a work is not viewable and the content cannot be determined, complete the catalog record as thoroughly as possible based on the information that is currently known about the object. Be clear about what is ambiguous or unknown about the work. For example, an unviewable work may be cataloged as “16mm film of unknown footage attributed to Pearl Bowser,” or “Reel of unknown footage from the Pearl Bowser collection.” This communicates clearly what is both known and unknown about the instantiation and the unknown content. The catalog record can be updated when the object becomes viewable or more information is known.
@@ -160,11 +176,11 @@ If the PDCO arrived via storage media that was not accessioned but is stored and
 <br>
 
 
-| Object Type | Object Number | Object Name/Title | Comments
-| --- | --- | --- | --- |
-| Digital Video | 2021.14 | Shade Compositions SFMOMA! | Single digital video file with no other objects in the accession |
-| Digital video | 2021.49.1 | This Isn’t Working | Single digital video file with other objects in the accession |
-| Digital video | 2018.55 | Question Bridge: Black Males | Single channel video with box of media players. Media players are accessories and receive the following Component Number 2018.55_acc1 |
+| Object Type   | Object Number | Object Name/Title            | Comments                                                                                                                              |
+| :-----------: | :-----------: | :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| Digital Video | 2021.14       | Shade Compositions SFMOMA!   | Single digital video file with no other objects in the accession                                                                      |
+| Digital video | 2021.49.1     | This Isn't Working           | Single digital video file with other objects in the accession                                                                         |
+| Digital video | 2018.55       | Question Bridge: Black Males | Single channel video with box of media players. Media players are accessories and receive the following Component Number 2018.55_acc1 |
 </details>
 </details>
 </blockquote>
@@ -178,27 +194,31 @@ Numbering Analog Objects
 </summary>
 <p>
 
-For analog moving image objects, the character ‘a’ should be used to designate the first ‘carrier’ for the essence or signal (film, video, DVD, etc.). Subsequent characters (‘b,’ ‘c,’ ‘d’ etc.) should be used for any remaining ‘carriers’ in the instantiation. The most general formulation for numbering a single- component analog object is:
+For analog moving image objects, the character 'a' should be used to designate the first 'carrier' for the essence or signal (film, video, DVD, etc.). 
+Subsequent characters ('b,' 'c,' 'd' etc.) should be used for any remaining 'carriers' in the instantiation. 
+The most general formulation for numbering a single- component analog object is:
 
 <br>
 
-*[AccessionYear].[CollectionNumber].[WorkNumber]. [InstantiationNumber] [ComponentElement]*
+*[AccessionYear].[CollectionNumber].[WorkNumber].[InstantiationNumber][ComponentElement]*
 
 - Accession Year = the year in which the collection was accessioned
 - Collection Number = the order in which the collection was accessioned in that accession year
 - Work Number = the work (or object) number in the accessioned collection
-- Instantiation Number = a number for the instantiation of a work (or object). Instantiation numbers are only used when there are multiple instantiations of a work in a collection.
-- Component Element = a letter for each physical component of the object. This should start with ‘a’, for the first film and each additional film in the instantiation would receive a subsequent letter
+- Instantiation Number = a number for the instantiation of a work (or object). 
+Instantiation numbers are only used when there are multiple instantiations of a work in a collection.
+- Component Element = a letter for each physical component of the object. This should start with 'a', for the first film and each 
+additional film in the instantiation would receive a subsequent letter
 
 <br>
 
-| Object Type | Object Number | Object Name/Title | Comments
-| --- | --- | --- | --- |
-| Film | 2017.55.1.1a | Were You There?: The Black West | Object Number for a work that spans a single reel of acetate film (a) |
-| Film | 2021.49.1 | No Maps On My Taps | Object Number for a work that spans two reels of film (a) & (b) |
-| Film | 2018.55 | To Be Young, Gifted, And Black | SObject Number for a work that spans three reels of film (a), (b) & (c) |
+| Object Type   | Object Number | Object Name/Title               | Comments                                                                |
+| ------------- | ------------- | ------------------------------- | ----------------------------------------------------------------------- |
+| Film          | 2017.55.1.1a  | Were You There?: The Black West | Object Number for a work that spans a single reel of acetate film (a)   |
+| Film          | 2021.49.1     | No Maps On My Taps              | Object Number for a work that spans two reels of film (a) & (b)         |
+| Film          | 2018.55       | To Be Young, Gifted, And Black  | SObject Number for a work that spans three reels of film (a), (b) & (c) |
 | Videocassette |
-| DVD |
+| DVD           |
 
 </details>
 </blockquote>
@@ -212,7 +232,8 @@ Numbering Archival Collections
 </summary>
 <p>
 
-Archival collections, such as the Pearl Bowser archival collection (A2012.79), will also have a Series Number between the Collection Number and the Work Number. This number is used to indicate the type of media. Films in archival collections usually have 1 designated as the Series Number. The formulation would look like:
+Archival collections, such as the Pearl Bowser archival collection (A2012.79), will also have a Series Number between the Collection Number and the Work Number. 
+This number is used to indicate the type of media. Films in archival collections usually have 1 designated as the Series Number. The formulation would look like:
 <p>
 
 *[AccessionYear].[CollectionNumber].[SeriesNumber].[WorkNumber].[InstantiationNumber][ComponentElement]*
@@ -439,7 +460,7 @@ The table below can help catalogers determine the correct role types to apply to
 
 <br>
 
-<figure>
+<!-- <figure>
     <table border="1" width="100%">
         <col style="width:20%">
 	    <col style="width:20%">
@@ -580,7 +601,7 @@ The table below can help catalogers determine the correct role types to apply to
             </tr>
         </tbody>
     </table>
-</figure>
+</figure> -->
 
 <br>
 
