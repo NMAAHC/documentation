@@ -460,6 +460,10 @@ The table below can help catalogers determine the correct role types to apply to
 
 <br>
 
+| Type of Work                                      | Constituent Type                                                                                                   | Role                                                                                                                        | Guidelines                                                                                               |
+| :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Formal**<br>feature films,<br>television shows  | **Active**<br>directors,<br>producers,<br>editors,<br>writers,<br>interviewers,<br>recording artists,<br>composers | Directed by,<br>Produced by,<br>Edited by,<br>Written by,<br>Narrated by,<br>Interviewed by,<br>Recorded by,<br>Composed by | List the director first for motion pictures or single television programs. For television series, it's sometimes more useful to list the producer or executive producer first. If a single individual has multiple roles in the creation of a formal work, it is sometimes useful to list several of these roles. If the soundtrack or score bears some significance, the recording artist(s) or composer(s) can be linked using the “Recorded by” or “Composed by” role types. |
+
 <!-- <figure>
     <table border="1" width="100%">
         <col style="width:20%">
