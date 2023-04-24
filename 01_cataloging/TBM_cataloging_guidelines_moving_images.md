@@ -108,8 +108,8 @@ that rare work requires more detailed and comprehensive cataloging description t
 When a work is not viewable and the content cannot be determined, complete the catalog record as thoroughly as possible based on the information that is currently known about the object. Be clear about what is ambiguous or unknown about the work. For example, an unviewable work may be cataloged as “16mm film of unknown footage attributed to Pearl Bowser,” or “Reel of unknown footage from the Pearl Bowser collection.” This communicates clearly what is both known and unknown about the instantiation and the unknown content. The catalog record can be updated when the object becomes viewable or more information is known.
 <br>
 
-<details>
 <blockquote>
+<details>
 <summary>
 Types of Works
 </summary>
