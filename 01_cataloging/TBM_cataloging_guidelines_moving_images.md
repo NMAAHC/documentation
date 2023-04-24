@@ -473,7 +473,7 @@ The table below can help catalogers determine the correct role types to apply to
 
 <img src="images/TBM_cataloging_MI_17.jpg">
 
-###### ___CAB CALLOWAY HOME MOVIE #2 (2015.273.2.2.1abc)___: IN THE EXAMPLE ABOVE, A HOME MOVIE FILMED BY JAZZ MUSICIAN CAB CALLOWAY (NONFICTION, INFORMAL WORK), THE ACTIVE CONSTITUENTS ARE CAB AND NUFFIE CALLOWAY, WHO FILMED THE HOME MOVIE. THEY ARE LISTED FIRST USING THE “CREATED BY” CONSTITUENT ROLE TYPE. THE PASSIVE CONSTITUENTS ARE LISTED AFTERWARDS USING THE “SUBJECT OF” ROLE TYPE.
+###### ___Cab Calloway Home Movie #2 (2015.273.2.2.1abc)___: In the example above, a home movie filmed by jazz musician Cab Calloway (nonfiction, informal work), the active constituents are Cab and Nuffie Calloway, who filmed the home movie. They are listed first using the “Created by” constituent role type. The passive constituents are listed afterwards using the “Subject of” role type.
 <p>
 
 <blockquote>
@@ -512,7 +512,7 @@ Use the release date for commercial productions and the date filmed/captured for
 
 <img src="images/TBM_cataloging_MI_18.jpg">
 
-##### **FILM CLIPS FROM THE DOCUMENTARY AMERICAN MUSIC - FROM FOLK TO JAZZ AND POP (2015.275.25.1a)**: IN THE EXAMPLE ABOVE, BOTH THE RELEASE DATE (1966) AND THE DATE THE DOCUMENTARY WAS REISSUED (1967) ARE INCLUDED IN THE DATE ASSISTANT.
+##### *Film clips from the documentary American Music - From Folk to Jazz and Pop (2015.275.25.1a)*: In the example above, both the release date (1966) and the date the documentary was reissued (1967) are included in the date assistant.
 </details>
 </blockquote>
 
@@ -563,7 +563,7 @@ For time-based PDCOs, the duration as well as file size should be entered. See t
 <img src="images/TBM_cataloging_MI_19.jpg">
 <p>
 
-> Dark Manhattan (2015.167.5.1abc)
+> ___Dark Manhattan (2015.167.5.1abc)__
 <p>
 <img src="images/TBM_cataloging_MI_20.jpg">
 <p>
