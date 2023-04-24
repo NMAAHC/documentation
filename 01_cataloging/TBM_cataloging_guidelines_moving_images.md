@@ -173,7 +173,7 @@ If the PDCO arrived via storage media that was not accessioned but is stored and
 <br>
 
 
-| Object Type        | Object Number | Object Name/Title                           | Comments                                                                                                                              |
+| Object Type        | Object Number | Object Name or Title                        | Comments                                                                                                                              |
 | ------------------ | ------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Digital&nbsp;Video | 2021.14       | Shade&nbsp;Compositions&nbsp;SFMOMA!        | Single digital video file with no other objects in the accession                                                                      |
 | Digital&nbsp;video | 2021.49.1     | This&nbsp;Isn't&nbsp;Working                | Single digital video file with other objects in the accession                                                                         |
@@ -468,12 +468,12 @@ The table below can help catalogers determine the correct role types to apply to
 
 <img src="images/TBM_cataloging_MI_16.jpg">
 
-###### **Black Journal: The Black Woman (2017.32.1.1ab)**: In the example above, an episode of an education television program (nonfiction, formal work), the active constituents are the director and producer and are listed first. The remaining constituents are listed afterwards, using roles typical for nonfiction works, such as “Interview of,” “Interview by,” and “Subject of.”
+###### ___Black Journal: The Black Woman (2017.32.1.1ab)___: In the example above, an episode of an education television program (nonfiction, formal work), the active constituents are the director and producer and are listed first. The remaining constituents are listed afterwards, using roles typical for nonfiction works, such as “Interview of,” “Interview by,” and “Subject of.”
 <br>
 
 <img src="images/TBM_cataloging_MI_17.jpg">
 
-###### **CAB CALLOWAY HOME MOVIE #2 (2015.273.2.2.1abc)**: IN THE EXAMPLE ABOVE, A HOME MOVIE FILMED BY JAZZ MUSICIAN CAB CALLOWAY (NONFICTION, INFORMAL WORK), THE ACTIVE CONSTITUENTS ARE CAB AND NUFFIE CALLOWAY, WHO FILMED THE HOME MOVIE. THEY ARE LISTED FIRST USING THE “CREATED BY” CONSTITUENT ROLE TYPE. THE PASSIVE CONSTITUENTS ARE LISTED AFTERWARDS USING THE “SUBJECT OF” ROLE TYPE.
+###### ___CAB CALLOWAY HOME MOVIE #2 (2015.273.2.2.1abc)___: IN THE EXAMPLE ABOVE, A HOME MOVIE FILMED BY JAZZ MUSICIAN CAB CALLOWAY (NONFICTION, INFORMAL WORK), THE ACTIVE CONSTITUENTS ARE CAB AND NUFFIE CALLOWAY, WHO FILMED THE HOME MOVIE. THEY ARE LISTED FIRST USING THE “CREATED BY” CONSTITUENT ROLE TYPE. THE PASSIVE CONSTITUENTS ARE LISTED AFTERWARDS USING THE “SUBJECT OF” ROLE TYPE.
 <p>
 
 <blockquote>
