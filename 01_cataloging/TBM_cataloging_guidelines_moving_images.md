@@ -81,9 +81,7 @@ should always receive separate TMS records to properly record the acquisition in
 
 <br>
 
-##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: 
-in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, 
-but details of the physical characteristics of the different instantiations will vary.
+##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, but details of the physical characteristics of the different instantiations will vary.
 </details>
 
 <br>
@@ -110,7 +108,6 @@ that rare work requires more detailed and comprehensive cataloging description t
 When a work is not viewable and the content cannot be determined, complete the catalog record as thoroughly as possible based on the information that is currently known about the object. Be clear about what is ambiguous or unknown about the work. For example, an unviewable work may be cataloged as “16mm film of unknown footage attributed to Pearl Bowser,” or “Reel of unknown footage from the Pearl Bowser collection.” This communicates clearly what is both known and unknown about the instantiation and the unknown content. The catalog record can be updated when the object becomes viewable or more information is known.
 <br>
 
-<blockquote>
 <details>
 <summary>
 Types of Works
@@ -133,7 +130,6 @@ For cataloging purposes, it may be helpful to think of moving images in terms of
 
 Keep in mind that Types of Works are not strict categories, and some works may bridge multiple types. For example, the film Unspoken Conversation bears hallmarks of both informal and formal works. Filmmaker Iman Hameen created Unspoken Conversation while she was a student (informal), though it is a titled work and has since had a small commercial release (formal). When cataloging works that do not fit neatly into one category, use your best judgement when determining how these work type categories may guide cataloging decisions.
 </details>
-</blockquote>
 </details>
 
 <br>
