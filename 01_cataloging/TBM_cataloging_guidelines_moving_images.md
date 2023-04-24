@@ -28,9 +28,12 @@ Definition and Scope
 
 <br/>
 
-### **Work and Instantiation** <p> Cataloging time-based materials addresses an object on two levels: (1) the physical object and (2) its content. The terms “work” and “instantiation” are frequently used to describe the difference between the physical object and its content and are defined as follows:
+### **Work and Instantiation** 
+<p> 
 
-- Workthe content on a reel of film, videotape, cassette tape, DVD, digital file, etc.
+Cataloging time-based materials addresses an object on two levels: (1) the physical object and (2) its content. The terms “work” and “instantiation” are frequently used to describe the difference between the physical object and its content and are defined as follows:
+
+- Work: the content on a reel of film, videotape, cassette tape, DVD, digital file, etc.
 <br>
 
 - Instantiation: the format that carries the work (i.e., content); meaning, the physical manifestation/iteration on which the work can be found (e.g., 16mm film, 8mm film, videotape, DVD, etc.)
@@ -68,10 +71,7 @@ Item-level records vs. Components
 Depending on the type of instantiation and the particularities of the collection in which it was acquired, 
 cataloging may utilize separate TMS object records for each instantiation or combine several instantiations 
 from the same accession into a single TMS object record using components. Instantiations from different accessions 
-should always receive separate TMS records to properly record the acquisition information for each. With either approach, 
-be sure to record the differences between the instantiations (format, attributes, dimensions, etc.) thoroughly so 
-that users can distinguish them from one another easily. Consult with the Media Archivist, Collections Information Specialist 
-and/or Registrars if unsure when instantiations should receive separate TMS records
+should always receive separate TMS records to properly record the acquisition information for each. With either approach, be sure to record the differences between the instantiations (format, attributes, dimensions, etc.) thoroughly so that users can distinguish them from one another easily. Consult with the Media Archivist, Collections Information Specialist and/or Registrars if unsure when instantiations should receive separate TMS records
 
 <img src="images/TBM_cataloging_MI_01.jpg">
 
@@ -81,9 +81,8 @@ and/or Registrars if unsure when instantiations should receive separate TMS reco
 
 <br>
 
-##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: in the example above, a work print and a release print of HANDS OF INGE were 
-accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, 
-while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, 
+##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: 
+in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, 
 but details of the physical characteristics of the different instantiations will vary.
 </details>
 
