@@ -2,6 +2,16 @@
 
 This document details the steps for TBMA team members to process PDCO material received for Museum accession considerations. Members will refer to the Smartsheet questionnaires filled by curatorial staff members and the team share folder (links below) to prepare collections for pre-acquisition, accession, and DAMs ingestion.
 
+<br/>
+
+* [Pre-Acquisition](#pre-acquisition)
+* [Files Review Process](#files-review-process)
+* [Accession](#accession)
+* [DAMs Ingest Process](#dams-ingest-process)
+* [Final Steps](#final-steps)
+* [Appendix A](#appendix-a)
+
+<br/>
 
 ## Pre-Acquisition
 1. Receiving new entry on Time-Base Media questionnaire
@@ -22,6 +32,7 @@ This document details the steps for TBMA team members to process PDCO material r
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231220410-7be320d6-bd1e-44bd-b758-42df01dd54b3.png">
 
+<br/>
 
 ## Files Review Process
 
@@ -36,10 +47,11 @@ Team member who is assigned to review the files in TR status will receive email 
 2. Generate mediainfo:
    - NMAAHCmm: _**makemediainfo [file or package]**_
 ```
-           ≈:≈ makemediainfo Nelson\ Malden_Edited_100322.mov Nelson\ Malden_Unedited.mov
+≈:≈ makemediainfo /03_TR_preAcqAssements/Black\ Pluralism/Makkah\ Ali.mov /03_TR_preAcqAssements/Black\ Pluralism/Carrie\ Kholi-Murchison\ -\ Dropbox.mov
 ```
    
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231221779-892cc456-0524-4213-bcb5-9a5e9ad47b25.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/234073765-51ea065a-593e-4ab7-887f-535c5df4ffd4.png">
+
 
 a mediainfo file named **[file]_mediainfo_YYYMMDD.txt** (e.g. Nelson Malden_Edited_100322.mov_mediainfo_2022-12-09.txt) will be generated in the same directory as your input for each qualified file in the folder/package.
 
@@ -50,12 +62,12 @@ If mediainfo is installed in your machine, you can use `mediainfo -f [file] >> [
 4. Generate checksum: 
    - nmaahcmm:  makechecksum [file or package 1] [file or package 2] [file or package 3]
 ```
-           ≈:≈ makechecksum TR2022-97_NelsonMalden/Nelson\ Malden_Edited_100322.mov TR2022-97_NelsonMalden/Nelson\ Malden_Unedited.mov
+≈:≈ makechecksum /03_TR_preAcqAssements/Black\ Pluralism/Makkah\ Ali.mov /03_TR_preAcqAssements/Black\ Pluralism/Carrie\ Kholi-Murchison\ -\ Dropbox.mov
 ```
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231223587-20f7df59-7248-460c-9e18-937ad8b0435a.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/234075714-57bfee61-e43c-40ba-ab1e-aa656cd52eb1.png">
 
-A md5 checksum file (e.g. TR2021-51_2022-06-29_checksums.md5) will be generated in the same directory as your input.
+A md5 checksum file (e.g. [filename]_checksums.md5) will be generated in the same directory as your input.
 
 You can also use the command `md5deep -bre [file or package] >> [filepath]/TR20xx-xx_YYYY-MM-DD_checksums.md5` on MAC terminal, or `md5sum [file path]/[file names] >> [filepath]/ TR20xx-xx_YYYY-MM-DD_checksums.md5` on PC cmd to generate md5 checksums.
 
@@ -77,6 +89,8 @@ a.	Example note for no problems:
 i.	“No immediate archival or conservation concerns.” <name> <date>
 b.	If there is a problem or concern, describe accurately and concisely
 
+<br/>	
+	
 ## Accession
 
 Collections in TR status will go before the collections committee and, if approved, will receive Accession numbers from the Registrar. These recent accession numbers will be emailed to staff by the Registrar at some point in the days following the collection committee meeting.
@@ -87,18 +101,20 @@ A good way to check on the recent accession numbers is to type the TR into TMS a
 2.	Input accession number in Smartsheet in column
 3.	Select Yes in Accession column in Smartsheet
 4.	Use nmaahcmm rename script to rename media files to [Accession number]_1.ext.:
-
-	≈:≈ rename 
-	Please enter a Base File Name: TR2022-97
-Plese drag in a list of files: Nelson Malden_Unedited.mov Nelson Malden_Edited_100322.mov 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/231225339-514ea0e9-f9a2-4552-b55d-b6b5f9cf2d92.png">
+```
+≈:≈ rename
+Please enter a Base File Name: 2023_4_1_
+Please drag in a list of files: /03_TR_preAcqAssements/TR-reviews/01_reviewComplete/TR2022_73_concatenated.mxf /03_TR_preAcqAssements/TR-reviews/01_reviewComplete/Selena\ Williams\,\ Bonnie\ Taylor-Williams/Williams_Selena\,\ Taylor-Williams_Bonnie_Hirez.mov\ Bonnie.mov 
+```
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/91981823/234082771-22971f20-d3db-4262-af41-78fd8075e771.png">
 
 (a SI_DAMS-MD_UPDATE_2021_VIDEOTemplate.csv with original file names will be generated in the script)
 5.	Rerun checksum for the media files
 6.	Create a folder with accession number in 01_accessioned
 7.	Move the corresponding TR number folder to the accession number folder (in 01_accessioned)
 
+<br/>	
+	
 ## DAMs Ingest Process
 
 These steps serve as a quick guide, for detail DAMs workflow, please refer to DigiTeam & DAMs Ingest workflow documentation.
@@ -114,6 +130,8 @@ These steps serve as a quick guide, for detail DAMs workflow, please refer to Di
 9.	Copy Ready.txt to Checksum
 10.	Received email notification for successful verification
 
+<br/>	
+	
 ## Final Steps
 
 1.	Find records in DAMs, check if all fields are import correctly
@@ -122,8 +140,11 @@ These steps serve as a quick guide, for detail DAMs workflow, please refer to Di
 4.	In Smartsheet, check Ingest in DAMs in 02_TBM_TRsTracking
 5.	Move row to Ingested
 
-
-## Appendix A:
+<br/>
+<br/>	
+	
+	
+## Appendix A
 
 Registrar data in *TEMPLATE_TBM_PDCO_TR-assignment-info.xltx*
 
