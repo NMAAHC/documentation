@@ -109,6 +109,7 @@ When a work is not viewable and the content cannot be determined, complete the c
 <br>
 
 <details>
+<blockquote>
 <summary>
 Types of Works
 </summary>
@@ -130,6 +131,7 @@ For cataloging purposes, it may be helpful to think of moving images in terms of
 
 Keep in mind that Types of Works are not strict categories, and some works may bridge multiple types. For example, the film Unspoken Conversation bears hallmarks of both informal and formal works. Filmmaker Iman Hameen created Unspoken Conversation while she was a student (informal), though it is a titled work and has since had a small commercial release (formal). When cataloging works that do not fit neatly into one category, use your best judgement when determining how these work type categories may guide cataloging decisions.
 </details>
+</blockquote>
 </details>
 
 <br>
