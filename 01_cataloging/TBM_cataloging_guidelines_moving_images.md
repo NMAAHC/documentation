@@ -173,11 +173,11 @@ If the PDCO arrived via storage media that was not accessioned but is stored and
 <br>
 
 
-| Object Type   | Object Number | Object Name/Title            | Comments                                                                                                                              |
-| :-----------: | :-----------: | :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| Digital Video | 2021.14       | Shade Compositions SFMOMA!   | Single digital video file with no other objects in the accession                                                                      |
-| Digital video | 2021.49.1     | This Isn't Working           | Single digital video file with other objects in the accession                                                                         |
-| Digital video | 2018.55       | Question Bridge: Black Males | Single channel video with box of media players. Media players are accessories and receive the following Component Number 2018.55_acc1 |
+| Object Type        | Object Number | Object Name/Title                           | Comments                                                                                                                              |
+| ------------------ | ------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Digital&nbsp;Video | 2021.14       | Shade&nbsp;Compositions&nbsp;SFMOMA!        | Single digital video file with no other objects in the accession                                                                      |
+| Digital&nbsp;video | 2021.49.1     | This&nbsp;Isn't&nbsp;Working                | Single digital video file with other objects in the accession                                                                         |
+| Digital&nbsp;video | 2018.55       | Question&nbsp;Bridge:&nbsp;Black&nbsp;Males | Single channel video with box of media players. Media players are accessories and receive the following Component Number 2018.55_acc1 |
 </details>
 </details>
 </blockquote>
