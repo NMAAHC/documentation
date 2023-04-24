@@ -24,11 +24,11 @@ Definition and Scope
 </summary>
 <p>
 
->### These guidelines pertain to analog and digital moving image objects within the Collection of the National Museum of African American History and Culture (NMAAHC). They include the cataloging and naming of moving image objects, art installations with time-based elements, and digital objects and their carriers. Additional guidelines for Primary Digital Collection Objects (PDCO) can be found in the Guidelines for Cataloging PDCO. These guidelines build upon and should be used in conjunction with the general cataloging rules enumerated in the NMAAHC Cataloging Standards and Guidelines.
+### These guidelines pertain to analog and digital moving image objects within the Collection of the National Museum of African American History and Culture (NMAAHC). They include the cataloging and naming of moving image objects, art installations with time-based elements, and digital objects and their carriers. Additional guidelines for Primary Digital Collection Objects (PDCO) can be found in the Guidelines for Cataloging PDCO. These guidelines build upon and should be used in conjunction with the general cataloging rules enumerated in the NMAAHC Cataloging Standards and Guidelines.
 
 <br/>
 
->### **Work and Instantiation** <p> Cataloging time-based materials addresses an object on two levels: (1) the physical object and (2) its content. The terms “work” and “instantiation” are frequently used to describe the difference between the physical object and its content and are defined as follows:
+### **Work and Instantiation** <p> Cataloging time-based materials addresses an object on two levels: (1) the physical object and (2) its content. The terms “work” and “instantiation” are frequently used to describe the difference between the physical object and its content and are defined as follows:
 
 - Workthe content on a reel of film, videotape, cassette tape, DVD, digital file, etc.
 <br>
