@@ -563,11 +563,11 @@ For time-based PDCOs, the duration as well as file size should be entered. See t
 <img src="images/TBM_cataloging_MI_19.jpg">
 <p>
 
-> ___Dark Manhattan (2015.167.5.1abc)__
+##### ___Dark Manhattan (2015.167.5.1abc)___
 <p>
 <img src="images/TBM_cataloging_MI_20.jpg">
 <p>
-Shade Compositions SFMOMA! (2021.14): A born-digital video artwork; both the duration and file size are entered in the Dimensions field.
+##### ___Shade Compositions SFMOMA! (2021.14)___: A born-digital video artwork; both the duration and file size are entered in the Dimensions field.
 </details>
 </blockquote>
 
@@ -599,13 +599,13 @@ If the content is viewable, it is often helpful to begin with a description of t
 <img src="images/TBM_cataloging_MI_21.jpg">
 <p>
 
-**History of Jazz with Willis Conover, (2015.275.10.1a)**: This footage hasn’t been found anywhere outside NMAAHC’s collection. Thus, a longer, more detailed description is provided.
+##### ___History of Jazz with Willis Conover, (2015.275.10.1a)___: This footage hasn’t been found anywhere outside NMAAHC’s collection. Thus, a longer, more detailed description is provided.
 <p>
 
 <img src="images/TBM_cataloging_MI_22.jpg">
 <p>
 
-**Black and Tan Fantasy (2015.275.10.1a)**: A race film that is widely known and available. Thus, the description is a relatively brief summary of the work.
+##### ___Black and Tan Fantasy (2015.275.10.1a)___: A race film that is widely known and available. Thus, the description is a relatively brief summary of the work.
 </details>
 
 <br>
@@ -625,7 +625,7 @@ While it is often helpful to view the content of moving images firsthand, this i
 <img src="images/TBM_cataloging_MI_24.jpg">
 <p>
 
-**History of the Negro in America (2017.55.24.1abc)**: Description and Notes for a film that has not been digitized and has not been viewed.
+##### ___History of the Negro in America (2017.55.24.1abc)___: Description and Notes for a film that has not been digitized and has not been viewed.
 </details>
 </details>
 </blockquote>
@@ -708,7 +708,7 @@ Object Types should refer to the entire object rather than its constituent parts
 
 <img src="images/TBM_cataloging_MI_29.jpg">
 
-##### **BOY WHAT A GIRL! (2015.167.1.1ab)**: IN THE EXAMPLE ABOVE, A RELEASE PRINT OF THE FEATURE FILM BOY WHAT A GIRL!, THE PHYSICAL PROPERTIES (16MM, BLACK-AND-WHITE, SOUND) AND CONTENT-RELATED PROPERTIES (FEATURE FILM, RELEASE PRINT) ARE ALL ADDED AS OBJECT TYPE ATTRIBUTES.
+##### *Boy What A Gir! (2015.167.1.1ab)*: In the example above, a release print of the feature film *Boy What a Girl!*, the physical properties (16mm, black-and-white, sound) and content-related properties (feature film, release print) are all added as object type attributes.
 </details>
 </details>
 <p>
@@ -751,10 +751,10 @@ Television
 </summary>
 <p>
 
-- Children’s television- Children's television are television programs designed for children, normally scheduled for broadcast during the morning and afternoon when children are awake.
-- Public television- Television that provides cultural, informational, and instructional programs for the public and that is financed by a combination of government, private, and corporate sources, noncommercial television
-- Sitcoms- A television series that involves a continuing cast of characters in a succession of comedic circumstances
-- Variety shows (Television)- Entertainment made up of a variety of acts including musical performances, sketch comedy, magic, acrobatics, juggling, and ventriloquism. It is normally introduced by a compère (master of ceremonies) or host.
+- **Children’s television**- Children's television are television programs designed for children, normally scheduled for broadcast during the morning and afternoon when children are awake.
+- **Public television**- Television that provides cultural, informational, and instructional programs for the public and that is financed by a combination of government, private, and corporate sources, noncommercial television
+- **Sitcoms**- A television series that involves a continuing cast of characters in a succession of comedic circumstances
+- **Variety shows (television)**- Entertainment made up of a variety of acts including musical performances, sketch comedy, magic, acrobatics, juggling, and ventriloquism. It is normally introduced by a compère (master of ceremonies) or host.
 </details>
 </details>
 </details>
@@ -845,7 +845,7 @@ It should be noted that while the vast majority of NMAAHC’s Preservation Eleme
 <img src="images/TBM_cataloging_MI_31.jpg">
 <p>
 
-##### **CAB CALLOWAY HOME MOVIE #1 (2015.273.2.1.1A) AND PRESERVATION ELEMENTS**
+##### *Cab Calloway Home Movie #1 (2015.273.2.1.1A)* and preservation elements**
 </details>
 </details>
 </blockquote>
