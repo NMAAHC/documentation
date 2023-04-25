@@ -81,7 +81,7 @@ should always receive separate TMS records to properly record the acquisition in
 
 <br>
 
-##### **HANDS OF INGE (2012.79.1.9.1ac-.2a)**: in the example above, a work print and a release print of HANDS OF INGE were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, but details of the physical characteristics of the different instantiations will vary.
+##### *HANDS OF INGE (2012.79.1.9.1ac-.2a)*: In the example above, a work print and a release print of *HANDS OF INGE* were accessioned and are cataloged in separate TMS records. The title refers to the work and is the same in both records, while the object name field distinguishes the release print from the work print. Across both records, information about the work will remain the same, but details of the physical characteristics of the different instantiations will vary.
 </details>
 
 <br>
@@ -117,15 +117,15 @@ Types of Works
 
 For cataloging purposes, it may be helpful to think of moving images in terms of a few broad conceptual groups such as formal works and informal works, finished works and unfinished works, fiction and nonfiction works, etc. We will refer to these as “Types of Works” for the purposes of this document. While the Types of Works are not official categories, the types can assist with determining titles/object names, which dates should be reflected in the TMS record, how to construct descriptions, which constituent role types to use, etc.
 
-- Formal works: includes complete works that have been published or officially released with title, or for which a title is provided within the work itself or by the creator. Formal works are more likely to be prolific/pervasive in the public than informal works
+- **Formal works**: includes complete works that have been published or officially released with title, or for which a title is provided within the work itself or by the creator. Formal works are more likely to be prolific/pervasive in the public than informal works
     - e.g., feature films, televised programs, documentaries, etc.
-- Informal works: refers to works that have not been officially published or released. In many instances, informal works were never assigned a formal title by their creators and are rare/not generally available in the public
+- **Informal works**: refers to works that have not been officially published or released. In many instances, informal works were never assigned a formal title by their creators and are rare/not generally available in the public
     - e.g., home movies, amateur films, footage that have not been published, unfinished works by filmmakers
-- Fiction works: refers to works that describe imaginary events and people
+- **Fiction works**: refers to works that describe imaginary events and people
     - e.g., fictional movies and episodes of fictional television shows
-- Nonfiction works: works that are based on facts, real events, and real people. They tend to be biographical or historical in nature
+- **Nonfiction works**: works that are based on facts, real events, and real people. They tend to be biographical or historical in nature
     - e.g., documentary films, filmed/televised interviews, filmed/televised sporting events, time-based artworks
-- Unfinished works: works that have been deemed incomplete
+- **Unfinished works**: works that have been deemed incomplete
     - e.g., unfinished film projects
 <p>
 
@@ -199,12 +199,12 @@ The most general formulation for numbering a single- component analog object is:
 
 *[AccessionYear].[CollectionNumber].[WorkNumber].[InstantiationNumber][ComponentElement]*
 
-- Accession Year = the year in which the collection was accessioned
-- Collection Number = the order in which the collection was accessioned in that accession year
-- Work Number = the work (or object) number in the accessioned collection
-- Instantiation Number = a number for the instantiation of a work (or object). 
-Instantiation numbers are only used when there are multiple instantiations of a work in a collection.
-- Component Element = a letter for each physical component of the object. This should start with 'a', for the first film and each 
+- **Accession Year** = the year in which the collection was accessioned
+- **Collection Number** = the order in which the collection was accessioned in that accession year
+- **Work Number** = the work (or object) number in the accessioned collection
+- **Instantiation Number** = a number for the instantiation of a work (or object). 
+    - Instantiation numbers are only used when there are multiple instantiations of a work in a collection.
+- **Component Element** = a letter for each physical component of the object. This should start with 'a', for the first film and each 
 additional film in the instantiation would receive a subsequent letter
 
 <br>
@@ -239,7 +239,7 @@ This number is used to indicate the type of media. Films in archival collections
 
 <img src="images/TBM_cataloging_MI_03.jpg">
 
-###### AFRICAN SPEAKERS (2012.79.1.2.1AB-.2AB): IN THE EXAMPLE ABOVE, TWO INSTANTIATIONS OF AFRICAN SPEAKERS WERE ACCESSIONED AS PART OF THE PEARL BOWSER ARCHIVAL COLLECTION: 2012.79.1.2.1AB AND 2019.79.1.2.2AB, A BLACK-AND-WHITE COMBINED NEGATIVE AND A POSITIVE BLACK-AND-WHITE. THE ACCESSION YEAR IS 2012, THE COLLECTION NUMBER IS 79, THE SERIES NUMBER IS 1, THE WORK NUMBER IS 2, THE INSTANTIATION NUMBERS ARE 1 AND 2 RESPECTIVELY AND THE COMPONENTS A & B REPRESENT EACH REEL OF ACETATE FILM.
+###### *AFRICAN SPEAKERS (2012.79.1.2.1ab-.2ab)*: In the example above, two instantiations of *AFRICAN SPEAKERS* were accessioned as part of the Pearl Bowser archival collection: 2012.79.1.2.1ab and 2019.79.1.2.2ab, a black-and-white combined negative and a positive black-and-white. The accession year is 2012, the collection number is 79, the series number is 1, the work number is 2, the instantiation numbers are 1 and 2 respectively and the components a & b represent each reel of acetate film.
 </details>
 </blockquote>
 
@@ -258,7 +258,7 @@ Projection reels, film cores, canisters and film laboratory paper ephemera are t
 
 <img src="images/TBM_cataloging_MI_04.jpg">
 
-##### **LET THE CHURCH SAY AMEN! (2012.79.1.74.1ab)**: IN THE EXAMPLE ABOVE, THE WORK LET THE CHURCH SAY AMEN! IS SPREAD ACROSS TWO REELS OF FILM. THE FIRST REEL'S COMPONENT NUMBER IS 2012.79.1.74.1a AND THE SECOND REEL IS 2012.79.1.74.1b. THE PROJECTION REEL THE FIRST FILM IS ON IS 2012.79.1.74.1a_acc1 AND THE PROJECTION REEL THE SECOND REEL OF FILM IS ON IS 2012.79.1.74.1b_acc1. THE METAL CANISTERS HOLDING THE REELS ARE 2012.79.1.74.1a_acc2 AND 2012.79.1.74.1b_acc2, RESPECTIVELY. THE ORIGINAL SHIPPING CONTAINER THEY CAME IN IS 2012.79.1.74.1ab_acc1.
+##### *LET THE CHURCH SAY AMEN! (2012.79.1.74.1ab)*: In the example above, the work *LET THE CHURCH SAY AMEN!* Is spread across two reels of film. The first reel's component number is 2012.79.1.74.1a and the second reel is 2012.79.1.74.1b. The projection reel that the first film is on is 2012.79.1.74.1a_acc1 and the projection reel the second reel of film is on is 2012.79.1.74.1b_acc1. The metal canisters holding the reels are 2012.79.1.74.1a_acc2 and 2012.79.1.74.1b_acc2, respectively. The original shipping container they came in is 2012.79.1.74.1ab_acc1.
 </details>
 </blockquote>
 
@@ -305,7 +305,7 @@ Formal works include complete works that have been published or officially relea
 
 <img src="images/TBM_cataloging_MI_05.jpg">
 
-###### **BOY! WHAT A GIRL (2015.167.1.1ab)**: IN THE EXAMPLE ABOVE, THE FILM’S OFFICIALLY RELEASED TITLE IS INCLUDED IN THE TITLE FIELD. AN OBJECT NAME, THOUGH OPTIONAL, IS NOT ASSIGNED.
+###### *BOY! WHAT A GIRL (2015.167.1.1ab)*: In the example above, the film’s officially released title is included in the title field. An object name, though optional, is not assigned.
 
 <br>
 
@@ -320,7 +320,7 @@ When the object contains only a portion of a formal work, use the Object Name fi
 
 <img src="images/TBM_cataloging_MI_06.jpg">
 
-###### **FILM CLIP OF “SHEIK OF ARABY” FROM TIN PAN ALLEY (2015.275.29.1a)**: IN THE EXAMPLE ABOVE, ONLY A SCENE WHERE THE ACTORS PERFORM “SHEIK OF ARABY” IN THE FEATURE FILM TIN PAN ALLEY WAS ACCESSIONED. THE OBJECT NAME “FILM CLIP OF ‘SHEIK OF ARABY’ FROM TIN PAN ALLEY” IS GENERATED USING THE FORMULA ABOVE. THE TITLE FIELD IS LEFT BLANK.
+###### *Film clip of “Sheik of Araby” from TIN PAN ALLEY (2015.275.29.1a)*: In the example above, only a scene where the actors perform “Sheik of Araby” in the feature film *TIN PAN ALLEY* was accessioned. The object name “film clip of ‘Sheik of Araby’ from *TIN PAN ALLEY*” is generated using the formula above. The title field is left blank.
 </details>
 
 
@@ -337,15 +337,14 @@ If a complete work is from a series/anthology, use the formula “[Series Title]
 <img src="images/TBM_cataloging_MI_07.jpg">
 <img src="images/TBM_cataloging_MI_08.jpg">
 
-###### **CAMERA THREE: THE JAZZ OF WILBUR DE PARIS (2015.275.41.1a)**: IN THE EXAMPLE ABOVE, THE SERIES TITLE, CAMERA THREE, IS INCLUDED IN THE TITLE FIELD BEFORE THE COLON AND THE EPISODE TITLE APPEARS AFTER THE COLON WITHOUT QUOTES. THE SERIES TITLE IS ALSO INCLUDED IN THE PORTFOLIO/SERIES FIELD.
-<p>
+###### *CAMERA THREE: THE JAZZ OF WILBUR DE PARIS (2015.275.41.1a)*: in the example above, the series title, CAMERA THREE, is included in the title field before the colon and the episode title appears after the colon without quotes. The series title is also included in the portfolio/series field.
 
 If only a portion of the work was accessioned, the Title field should be left blank, and an Object Name should be created using the formula for “Clips or segments for formal works” above. The series name should still be entered in the Series/Portfolio field.
 
 <img src="images/TBM_cataloging_MI_09.jpg">
 <img src="images/TBM_cataloging_MI_08.jpg">
 
-###### **FILM CLIP FROM CAMERA THREE: OVER THE TOP TO BEBOP (2015.275.16.1a)**: IN THE EXAMPLE ABOVE, ONLY A SEGMENT OF AN EPISODE, “OVER THE TOP TO BEBOP,” FROM THE TELEVISION SERIES CAMERA THREE WAS ACCESSIONED. THE OBJECT NAME FILM CLIP FROM CAMERA THREE: OVER THE TOP TO BEBOP IS GENERATED USING THE FORMULA ABOVE, WHERE A COLON SEPARATES THE SERIES TITLE FROM THE EPISODE TITLE. THE SERIES TITLE IS INCLUDED IN THE PORTFOLIO/SERIES FIELD AS WELL.
+###### *Film clip from CAMERA THREE: OVER THE TOP TO BEBOP (2015.275.16.1a)*: in the example above, only a segment of an episode, “Over The Top To Bebop,” from the television series CAMERA THREE was accessioned. The object name film clip from CAMERA THREE: OVER THE TOP TO BEBOP is generated using the formula above, where a colon separates the series title from the episode title. The series title is included in the portfolio/series field as well.
 </details>
 </details>
 
@@ -379,12 +378,12 @@ Collections or series of works that are not home movies but are also not formal 
 
 <img src="images/TBM_cataloging_MI_10.jpg">
 
-###### **MAX BOND, SR. COLLECTION OF FAMILY HOME MOVIES (2016.16.1ab - .10abc)**: TITLES WITH SEQUENTIAL NUMBERS ARE ASSIGNED TO EACH RECORD.
+###### *MAX BOND, SR. COLLECTION OF FAMILY HOME MOVIES (2016.16.1ab - .10abc)*: Titles with sequential numbers are assigned to each record.
 <p>
 
 <img src="images/TBM_cataloging_MI_11.jpg">
 
-###### **REVEREND S. S. JONES COLLECTION OF FAMILY HOME MOVIES (2011.79.1.1abc - .9abc)**: TITLES WITH SEQUENTIAL REEL NUMBERS ARE ASSIGNED TO THE COLLECTION.
+###### *REVEREND S. S. JONES COLLECTION OF FAMILY HOME MOVIES (2011.79.1.1abc - .9abc)*: Titles with sequential reel numbers are assigned to the collection.
 </details>
 
 <br>
@@ -399,11 +398,11 @@ If the home movie or informal work is not part of a series, create an object nam
 
 <img src="images/TBM_cataloging_MI_12.jpg">
 
-###### **Film footage of “Bloody Monday” protests & 16th Street Baptist Church bombing (2012.79.1.107.1a)**
+###### *Film footage of “Bloody Monday” protests & 16th Street Baptist Church bombing (2012.79.1.107.1a)*
 
 <img src="images/TBM_cataloging_MI_13.jpg">
 
-##### **HOME MOVIE OF HUNTS POINT CELEBRATION (2012.79.1.15.1a)**
+##### *HOME MOVIE OF HUNTS POINT CELEBRATION (2012.79.1.15.1a)*
 </details>
 </details>
 
@@ -426,13 +425,13 @@ Sometimes, multiple intellectually unrelated works are spliced together on a sin
 
 <img src="images/TBM_cataloging_MI_14.jpg">
 
-###### **Film clips with the Benny Goodman Trio performing two songs (2015.275.17.1a)**: In the example above, two Benny Goodman Trio performances, “Nice Work If You Can Get It” and “Avalon” were spliced together on a single reel of film. The formal titles of the songs are entered in the Title field, separated by a slash and an Object Name that assists with disambiguation is added to the Object Name field.
+###### *Film clips with the Benny Goodman Trio performing two songs (2015.275.17.1a)*: In the example above, two Benny Goodman Trio performances, “Nice Work If You Can Get It” and “Avalon” were spliced together on a single reel of film. The formal titles of the songs are entered in the Title field, separated by a slash and an Object Name that assists with disambiguation is added to the Object Name field.
 
 <br>
 
 <img src="images/TBM_cataloging_MI_15.jpg">
 
-###### **Compilation reel with clips from the Judy Garland Show (2015.275.46.1a)**: In the example above, clips from **The Judy Garland Show** (television series) and **The Judy Garland Show** (television special) were spliced together in a single reel of film. Neither consisted of complete works; therefore, the Title field is left blank.
+###### *Compilation reel with clips from the Judy Garland Show (2015.275.46.1a)*: In the example above, clips from **The Judy Garland Show** (television series) and **The Judy Garland Show** (television special) were spliced together in a single reel of film. Neither consisted of complete works; therefore, the Title field is left blank.
 </details>
 </details>
 </blockquote>
@@ -468,12 +467,12 @@ The table below can help catalogers determine the correct role types to apply to
 
 <img src="images/TBM_cataloging_MI_16.jpg">
 
-###### ___Black Journal: The Black Woman (2017.32.1.1ab)___: In the example above, an episode of an education television program (nonfiction, formal work), the active constituents are the director and producer and are listed first. The remaining constituents are listed afterwards, using roles typical for nonfiction works, such as “Interview of,” “Interview by,” and “Subject of.”
+###### *BLACK JOURNAL: THE BLACK WOMAN (2017.32.1.1ab)*: In the example above, an episode of an education television program (nonfiction, formal work), the active constituents are the director and producer and are listed first. The remaining constituents are listed afterwards, using roles typical for nonfiction works, such as “Interview of,” “Interview by,” and “Subject of.”
 <br>
 
 <img src="images/TBM_cataloging_MI_17.jpg">
 
-###### ___Cab Calloway Home Movie #2 (2015.273.2.2.1abc)___: In the example above, a home movie filmed by jazz musician Cab Calloway (nonfiction, informal work), the active constituents are Cab and Nuffie Calloway, who filmed the home movie. They are listed first using the “Created by” constituent role type. The passive constituents are listed afterwards using the “Subject of” role type.
+###### *CAB CALLOWAY HOME MOVIE #2 (2015.273.2.2.1abc)*: In the example above, a home movie filmed by jazz musician Cab Calloway (nonfiction, informal work), the active constituents are Cab and Nuffie Calloway, who filmed the home movie. They are listed first using the “Created by” constituent role type. The passive constituents are listed afterwards using the “Subject of” role type.
 <p>
 
 <blockquote>
@@ -512,7 +511,7 @@ Use the release date for commercial productions and the date filmed/captured for
 
 <img src="images/TBM_cataloging_MI_18.jpg">
 
-##### *Film clips from the documentary American Music - From Folk to Jazz and Pop (2015.275.25.1a)*: In the example above, both the release date (1966) and the date the documentary was reissued (1967) are included in the date assistant.
+##### *Film clips from the documentary AMERICAN MUSIC - FROM FOLK TO JAZZ AND POP (2015.275.25.1a)*: In the example above, both the release date (1966) and the date the documentary was reissued (1967) are included in the date assistant.
 </details>
 </blockquote>
 
@@ -527,12 +526,11 @@ Medium
 
 Enter the material as enumerated in the Getty Art and Architecture Thesaurus (AAT).
 
-| Object Type                            | Medium                                                     |
-| -------------------------------------- | ---------------------------------------------------------- |
-| film                                   | acetate film, polyester film, or cellulose nitrate film    |
-| Videocassettes (VHS, Betacam, U-matic) | plastic with metal on polyester                            |
-| DVD and optical discs                  | aluminum and polycarbonate                                 |
-| PDCO                                   | Digital (entered into the Medium label manually)           |
+| Object Type                                                  | Medium                                                         |
+| ------------------------------------------------------------ | -------------------------------------------------------------- |
+| Film                                                         | - acetate film<br>- polyester film<br>- cellulose nitrate film |
+| Videocassettes:<br>- VHS<br>- Betacam<br>- U-matic<br>- etc. | plastic with metal on polyester                                |
+| DVD and optical discs                                        | aluminum and polycarbonate                                     |
 
 <br>
 
@@ -563,11 +561,13 @@ For time-based PDCOs, the duration as well as file size should be entered. See t
 <img src="images/TBM_cataloging_MI_19.jpg">
 <p>
 
-##### ___Dark Manhattan (2015.167.5.1abc)___
+##### *DARK MANHATTAN (2015.167.5.1abc)*
+<br>
 <p>
 <img src="images/TBM_cataloging_MI_20.jpg">
 <p>
-##### ___Shade Compositions SFMOMA! (2021.14)___: A born-digital video artwork; both the duration and file size are entered in the Dimensions field.
+
+##### *SHADE COMPOSITIONS SFMOMA! (2021.14)*: A born-digital video artwork; both the duration and file size are entered in the Dimensions field.
 </details>
 </blockquote>
 
@@ -599,13 +599,13 @@ If the content is viewable, it is often helpful to begin with a description of t
 <img src="images/TBM_cataloging_MI_21.jpg">
 <p>
 
-##### ___History of Jazz with Willis Conover, (2015.275.10.1a)___: This footage hasn’t been found anywhere outside NMAAHC’s collection. Thus, a longer, more detailed description is provided.
+##### *HISTORY OF JAZZ WITH WILLIS CONOVER (2015.275.10.1a)*: This footage hasn’t been found anywhere outside NMAAHC’s collection. Thus, a longer, more detailed description is provided.
 <p>
 
 <img src="images/TBM_cataloging_MI_22.jpg">
 <p>
 
-##### ___Black and Tan Fantasy (2015.275.10.1a)___: A race film that is widely known and available. Thus, the description is a relatively brief summary of the work.
+##### *BLACK AND TAN FANTASY (2015.275.10.1a)*: A race film that is widely known and available. Thus, the description is a relatively brief summary of the work.
 </details>
 
 <br>
@@ -625,7 +625,7 @@ While it is often helpful to view the content of moving images firsthand, this i
 <img src="images/TBM_cataloging_MI_24.jpg">
 <p>
 
-##### ___History of the Negro in America (2017.55.24.1abc)___: Description and Notes for a film that has not been digitized and has not been viewed.
+##### *HISTORY OF THE NEGRO IN AMERICA (2017.55.24.1abc)*: Description and Notes for a film that has not been digitized and has not been viewed.
 </details>
 </details>
 </blockquote>
@@ -647,7 +647,7 @@ Object Type
 <p>
 
 As with all objects in the Collection, always use the most specific Object Type terms possible. Moving-image objects will typically have at least three Object Types that index the object’s physical properties:
-- (1) the signal (film, video, DVD, PDCO etc.)
+- (1) the carrier or format (film, video, DVD, PDCO etc.)
 - (2) the color
 - (3) whether there is sound
 <p>
@@ -661,7 +661,12 @@ Carrier or format
 
 The carrier, or format, is typically indexed using one of the terms in the right column of the table below.
 
-insert chart here
+| Carrier or Format                                          | Object Type Terms                                                                          |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Film                                                       | <img src="images/TBM_cataloging_MI_25.jpg">                                                |
+| Video and Optical Discs                                    | <img src="images/TBM_cataloging_MI_26.jpg"><br><img src="images/TBM_cataloging_MI_27.jpg"> |
+| PDCO (used only when physical carrier was not accessioned) | <img src="images/TBM_cataloging_MI_28.jpg">                                                |
+
 
 </details>
 
@@ -708,7 +713,7 @@ Object Types should refer to the entire object rather than its constituent parts
 
 <img src="images/TBM_cataloging_MI_29.jpg">
 
-##### *Boy What A Gir! (2015.167.1.1ab)*: In the example above, a release print of the feature film *Boy What a Girl!*, the physical properties (16mm, black-and-white, sound) and content-related properties (feature film, release print) are all added as object type attributes.
+##### *BOY WHAT A GIRL! (2015.167.1.1ab)*: In the example above, a release print of the feature film *Boy What a Girl!*, the physical properties (16mm, black-and-white, sound) and content-related properties (feature film, release print) are all added as object type attributes.
 </details>
 </details>
 <p>
@@ -841,11 +846,32 @@ Other Types of Preservation Elements
 <p>
 
 It should be noted that while the vast majority of NMAAHC’s Preservation Elements are film, there are a handful of objects on different signals (e.g., Betacam videotapes) that have been preserved as well. Cataloging Preservation Elements on other signals follows the same guidelines as cataloging film Preservation Elements; however, catalogers can consult with the Media Archivist with questions and concerns when cataloging non-film Preservation Elements.  
+</details>
+</details>
+</blockquote>
 
+<br>
+
+<details>
+<summary>
+Cataloging Preservation Elements
+</summary>
+<p>
+
+| Preservation Element Item | TMS Fields           | Guidelines                                                                                                                                       |
+| ------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Number                    | Component Number     | Preservation Elements should be numbered using suffixes such as “_PE1,” “_PE2,” “_PE3” etc.                                                      |
+| Name                      | Component Name       | Use the formula “Preservation + [component type]” to generate a component name e.g., Preservation Duplicate Negative, Preservation Release Print |
+| Date                      | Physical Description | Use the Physical Description field in the Components module to record the date a Preservation Element was created.                               |
+| Medium                    | Physical Description | Use the Physical Description field in the Components module to record the medium for Preservation Elements                                       |
+
+<br>
+
+<img src="images/TBM_cataloging_MI_32.jpg">
 <img src="images/TBM_cataloging_MI_31.jpg">
 <p>
 
-##### *Cab Calloway Home Movie #1 (2015.273.2.1.1A)* and preservation elements**
+##### *CAB CALLOWAY HOME MOVIE #1 (2015.273.2.1.1A)* and preservation elements
 </details>
 </details>
 </blockquote>
@@ -860,7 +886,7 @@ Adding Media links
 
 In addition to still photographs/reference images, links to audiovisual material can be added to TMS. Video files are delivered from the DAMS to the MADS and then linked to TMS by following the steps below:
 1. Create a Rendition Number using the naming convention below. The DAMS Unique Asset name can be retrieved from the DAMS, but the string (beginning with the underscore) must be manually created.
-a. DAMS Unique Asset Name + _Video_001
+    - DAMS Unique Asset Name + _Video_001
 2. Select “video” for the Medium Type
 3. Select “Video File” for the Format
 4. Select “MADS” for the Path
@@ -878,7 +904,14 @@ Flex Fields
 
 The Media Archives & Conservation Team uses a variety of Flex Fields to track aspects of the digitization process. In addition to tracking the digitization workflow for individual time-based objects, Flex Fields are also reportable via Advanced Searches; meaning, reports can be executed to track individual Flex Fields or a combination of multiple Flex Fields across the collection. This provides a systematic way of ensuring that some steps in the digitization process are directly traceable in TMS. Below is a list of Flex Fields the Media Archives & Conservation Team uses to track the Media Conservation Lab (MCL) Digitization Workflow, and a brief outline of their intended use.
 
-
+| Field | Definition |
+| ----- | ---------- |
+| LTO Write | Used to capture the date and the specific Linear Tape-Open (LTO) digital surrogates are saved on. The Date field should be used to record the date the file was written to the LTO, while the Remarks field documents the specific drive to which the file was written. |
+| Rights assessment | Used to track the rights and reproductions workflow. This information should also be tracked in the Rights and Reproductions module and as a Status Flag |
+| VTT created | Used to track creation of closed captions for audio-visual material. |
+| Conservation assessment | Captures inspection reports workflow, the details of which are recorded in Conservation Module/Conservation Studio. |
+| MADS link | Captures whether a video is streaming correctly in Collections Search. |
+| DAMS ingest | Captures whether Digital Picture Exchange (DPX) and .mov files have been ingested into the DAMS. The Remarks field should be used to indicate the number of DPX files in the DAMS for each film reel, as well as whether there is an accompanying ProRes .mov file. |
 </details>
 
 <br>
@@ -889,9 +922,21 @@ Appendix A: Abbreviations
 </summary>
 <p>
 
-
+| Abbreviation | Expansion | Definition |
+| ------------ | --------- | ---------- |
+| OR NEG | - Original negative<br>- Original camera negative | ***Original camera negative***: In traditional film-based movie cameras, the original footage is captured onto negative stock (stock is the term used to describe the “film” prior to exposure). It is from this original camera negative film that all other copies are typically made. |
+ OR REV | Original reversal | Camera original material on reversal stock. The result is a positive image on a transparent base. | 
+ | DUPE NEG | Duplicate negative | Black-and-white negative element generationally removed from an original. The typical method for producing a duplicate negative entails making an interpositive (the positive image that results when copying a negative onto negative film stock), which is then recopied (and undergoes a second polarity reversal) to produce a duplicate negative. When a transparency (already a positive) is copied, color reversal stock is usually employed, yielding a duplicate transparency. (http://www.digitizationguidelines.gov/term.php?term=interpositivesduplicatenegativesandtransparencies) | 
+ | I-N | Internegative | Internegative element created from a positive element. | 
+ | I-P | Interpositive | Interpositive element created from a negative element.<br>Orange-based motion picture film with a positive image made from the edited camera negative. The orange base provides special color characteristics that allow more accurate color reproduction. | 
+ | OPT TRK NEG | Optical track negative | Negative optical soundtrack element; no picture<br>audio portion of a film/video recording, in the form of a negative optical band along the edge of the film stock or videotape, carrying the dialogue, narrative, music, or sound effects. |
+ | OPT TRK POS | Optical track positive | Positive optical soundtrack element; no picture. Audio portion of a film/video recording, in the form of a positive optical band along the edge of the film stock or videotape, carrying the dialogue, narrative, music, or sound effects. | 
+ | MAG TRK | Magnetic track | audio portion of a film/video recording, in the form of a magnetic band along the edge of the film stock or videotape, carrying the dialogue, narrative, music, or sound effects. (Getty) |
+| ANS PRINT | Answer print | The first print made from original camera negatives (OR NEG) is called the answer print. It is the first composite (sound and picture) motion picture that is printed to film after color correction on an interpositive. It also refers to the first version of the movie printed to film with the sound properly synced to the picture. This print is commonly screened at the lab's screening room, with the color timer present to discuss the timing of certain scenes. Usually, color values will need to be corrected before a release print is made. (https://definitions.uslegal.com/a/answer-print-entertainment-law/) |
+| RLS PRINT | Release print | This is the film print provided to a movie theater or other venue for exhibition. | 
+| REV PRINT | Reversal print | Original reversal print. |
+| OR PRINT | Original print | This is an original, silent or composite (sound + picture) print. (but not a comp print negative!!). |
 </details>
-
 <br>
 
 <details>
