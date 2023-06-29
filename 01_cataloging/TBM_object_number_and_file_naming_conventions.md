@@ -458,6 +458,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 | | |
 
 <<<<<<< HEAD:01_cataloging/TBM_object_number_and_file_naming_conventions.md
+<<<<<<< HEAD:01_cataloging/TBM_object_number_and_file_naming_conventions.md
 </details>
 </details>
 <br/>
@@ -507,12 +508,15 @@ Our main guideline, of which several examples follow below, is that the filename
 | | |
 
 >> ##### Filenames for digital files will by necessity transform all periods within the object number into underscores, due to the fact that using periods in filenames can result in problems when trying to automate or batch digital preservation processes.
+=======
+>>>>>>> a38195958f99c81f932ad8d0bfd1fcfcf870cc44:TBM_cataloging/TBM_Object_Number_and_File_Naming_Conventions.md
 </details>
 <br/>
 
 ---
 
 <br/>
+<<<<<<< HEAD:01_cataloging/TBM_object_number_and_file_naming_conventions.md
 <details><summary>Circumstance B: A Double LP (DLP) - one album consisting of two two-sided 12" 33 1/3 rpm vinyl discs. Packaged in printed sleeves inside of a gatefold jacket. The sleeves contain original artwork, lyrics, and credits..
 
 </summary>
@@ -685,6 +689,11 @@ LP						2016.1.23.1a
 <details><summary>Circumstance D : Mixed archival collection containing time-based medaia.</summary>
 <br/>
 
+=======
+<details><summary>Circumstance D : Mixed archival collection containing time-based medaia.</summary>
+<br/>
+
+>>>>>>> a38195958f99c81f932ad8d0bfd1fcfcf870cc44:TBM_cataloging/TBM_Object_Number_and_File_Naming_Conventions.md
 > #### Circumstance D:
 *Mixed archival collection containing time-based media.*
 <br/>
