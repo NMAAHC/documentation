@@ -10,6 +10,7 @@ Definition and Scope
 ### These draft guidelines pertain to matroska container files created/dervied from born-digital or analog sources, both video and film. These guidelines build upon and should be used in conjunction with the general cataloging rules enumerated in the NMAAHC Cataloging Standards and Guidelines.
 
 <br/>
+
 | tag                       | value                                   | DAMS field                | Comments                                                          | 
 | ------------------------- | ------                                  | ------------              | --------                                                          |
 | title                     | Twilight City                           | mkv_title                 | title as determined by technician at time of transfer             |
@@ -21,4 +22,5 @@ Definition and Scope
 | alternate_identifier      | TR2019-63                               | mkv_alternate_indentifier | for your secret agent ID |
 | original_projection_speed | 18fps                                   | mkv_fps                   | we do also put this in the DPX header... but does anyone anywhere ever look at those? |
 | originating format        | U-matic                                 | mkv_originating_format    | needs controlled vocab... PBCore... how to enforce? |
-| creator                   | Smithsonian NMAAHC                      | mkv_creator               | Entity responsible for creation of digital file |   
+| creator                   | Smithsonian NMAAHC                      | mkv_creator               | Entity responsible for creation of digital file |
+|||||      
