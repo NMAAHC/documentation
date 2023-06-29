@@ -13,10 +13,10 @@
 <details><summary>INTRODUCTION: General conventions for numbering and naming</summary>
 
 >### This intro section describes general conventions to create object numbers for time-based media works and their assocaited components and/or accessories. 
->#### It also desceribes how digital preservxdation files and derivatives are named/numbered.  
+>#### It also desceribes how digital preservation files and derivatives are named/numbered.  
 
 <br/>
-The most general formulation for numbering time-based works on one a single media carrier is:
+The most general formulation for numbering time-based works on a single media carrier is:
 
 >**2018.37.2.1a**  
 >*[accessionYear].[collectionNumber].[workNumber].[instantiationNumber][componentElement]*  
@@ -57,7 +57,7 @@ Mixed archival collections containing time-based works, such as the Pearl Bowser
 
 >1. motion picure film: all gauges and bases
 >2. video: tape-based video formats, both cassette and open-reel   
->3. audio: tape-based audio formats, both cassetes and open-reel
+>3. audio: tape-based audio formats, both cassette and open-reel
 >4. optical discs: all optical disc formats - DVD, CD, Laserdisc, etc.
 >5. digital carriers: all digital carriers - harddrives, thumbdrives, computer disks, etc.
 >>> ###### the content of the digital carrier, e.g. digital photos, digital video, digital audio, software, word processing documents, etc., does not impact the numbering
@@ -80,7 +80,7 @@ For example, where the work is a feature film in a can on one reel/core with Wor
 
 When a accessory is associated with more than one Component Element, that accessory will have both Component Element letters in its object number. For instance, if a film can with the Accessory Suffix acc_1 contains two reels/cores of film with object numbers `2018.37.2.1a` & `2018.37.2.1b`, the object number for the film can will be `2018.37.2.1ab_acc1`. Don't make two object numbers for the can, e.g. creating both `2018.37.2.1a` and `2018.37.2.1b` for the singular can is incorrect. 
 
->> ##### when deciding what numerical order to creat the accessories to an object, give number `1` to the accessory carrying the most metadata about the object. For films this is most often the can/case and, as such, the can/case if given Accessory Suffix number `1` while reels/core and other ephemera are given later numbers. Don't skip numbers when assigning Accessory Suffix. 
+>> ##### when deciding what numerical order to create the accessories to an object, give number `1` to the accessory carrying the most metadata about the object. For films this is most often the can/case and, as such, the can/case if given Accessory Suffix number `1` while reels/core and other ephemera are given later numbers. Don't skip numbers when assigning Accessory Suffix. 
 <br/>
 </details>
 <br/>
@@ -242,7 +242,7 @@ The other option would be to splice all the 'works' together with a bit of leade
 | digital access file(s) derived from DPX packagee | 2013_19_1_1a.mov/.mp4 |
 | | |
 
-> #### When making this decision, think about if this is why the films may be spliced together? Was it done by the filmmaker to present a sample reel of work? A previous collector whose arhchival organization is important? Is it simply left this way after arriving from a processing lab? Ask which of these choices makes the archive more accessible and understandable.
+> #### When making this decision, think about if this is why the films may be spliced together? Was it done by the filmmaker to present a sample reel of work? A previous collector whose archival organization is important? Is it simply left this way after arriving from a processing lab? Ask which of these choices makes the archive more accessible and understandable.
 
 </details>
 <br/>
@@ -295,7 +295,7 @@ this choice will be based upon what makes the most sense for the archive and how
 So, motion picture film objects in this colleciton have a numbering like this:
 
 >2012.79.2.1.1a  
->>*accessionYear(2012).collectionNumber(79).**seriesNumber(1)**.workNumber(1).instantiaionNumber(1)componentElement(a)*
+>>*accessionYear(2012).collectionNumber(79).**seriesNumber(1)**.workNumber(1).instantiationNumber(1)componentElement(a)*
 
 The time-based media series in the Pear Bowser Collection look like:
 
@@ -378,7 +378,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 | --- | --- |
 | U-matic videotape cassette | 2015.66.1.1a |
 | U-matic plastic case | 2015.66.1.1a_acc1 |
-| Preservation main file (ffv1/mkv) |	2015_66_1_1a.mkv |
+| Preservation main file (ffv1/mkv) |	2015_66_1_1a_PM.mkv |
 | Digital access file(s) derived from preservation main file | 2015_66_1_1a_DER_01.mov/.mp4 |
 | | |
 
@@ -455,57 +455,22 @@ In this case, unlike with film, the archivist assigning numbers and inspecting t
 | VHS videotae | 2013.19.1.1a |
 | VHS plastic tape case | 2013.19.1.1a_acc1 |
 | Notecard inside VHS plastic tape case | 2013.19.1.1a_acc2 |
-| Preservation main file from VHS videotape (ffv1/mkv) | 2013_19_1_1a.mkv |
+| Preservation main file from VHS videotape (ffv1/mkv) | 2013_19_1_1a_PM.mkv |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_01.mov/.mp4 |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_02.mov/.mp4 |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_03.mov/.mp4 |
 | | |
 
-The other option would be to splice all the 'works' together with a bit of leader between each and place them on one core and assign one work and instantiation number to the entire reel. This would again result in numbering similar to Circumstance A. 
-
-| Component | Object # |
-| --- | --- |
-| Film | 2013.19.1.1a |
-| Metal canister | 2013.19.1.1a_acc1 |
-| Metal reel | 2013.19.1.1a_acc2 |
-| DPX Package | 2013_19_1_1a.mkv |
-| digital access file(s) derived from DPX packagee | 2013_19_1_1a.mov/.mp4 |
-| | |
-
-> #### When making this decision, think about if this is why the films may be spliced together? Was it done by the filmmaker to present a sample reel of work? A previous collector whose arhchival organization is important? Is it simply left this way after arriving from a processing lab? Ask which of these choices makes the archive more accessible and understandable.
-
 </details>
 <br/>
 
 ---
 
 <br/>
-<details><summary>Circumstance D : Five smaller rolls of 16mm film on plastic cores, from an assortment of different 'works,' grouped together arbitrarily in the same 35mm metal canister. Some of the rolls are constituent reels of a single 'work'; others, not.</summary>
+<details><summary>Circumstance D : Mixed archival collection containing time-based medaia.</summary>
 <br/>
 
->#### **Circumstance D:**
-*Five smaller rolls of 16mm film on plastic cores, from an assortment of different 'works,' grouped together arbitrarily in the same 35mm metal canister. Some of the rolls are constituent reels of a single 'work'; others, not.*
-
-This would be very similar to Circumstance C but there would be stronger reasons for the archivist to separate the rolls that are constituent of a single 'work' into a new Work Number. If there is already a copy of that work in the same collection, then a new Instantiation Number would be created.
-
-The numbering would be similar to Circumstance A.
-
-In a situation where a great number of trims related to a work are grouped together in a container, the appropriate decision is to combine all of the trims into a single reel with leader in-between them and either:
-- create a new instantiation and a single component letter
-- create a new instantiation and with each trim having it's own component letter  
-
-this choice will be based upon what makes the most sense for the archive and how many trims are on the newly created reel.
-
-</details>
-<br/>
-
----
-
-<br/>
-<details><summary>Circumstance E : Mixed archival collection containing time-based medaia.</summary>
-<br/>
-
-> #### Circumstance E:
+> #### Circumstance D:
 *Mixed archival collection containing time-based media.*
 <br/>
 <br/>
@@ -522,10 +487,10 @@ this choice will be based upon what makes the most sense for the archive and how
 >8. bound paper items: books and magazines
 >9. objects: furniture, trophies, clothing, all other objects
 
-So, motion picture film objects in this colleciton have a numbering like this:
+So, analog videotapes in this colleciton have a numbering like this:
 
 >2012.79.2.1.1a  
->>*accessionYear(2012).collectionNumber(79).**seriesNumber(1)**.workNumber(1).instantiaionNumber(1)componentElement(a)*
+>>*accessionYear(2012).collectionNumber(79).**seriesNumber(2)**.workNumber(1).instantiaionNumber(1)componentElement(a)*
 
 The time-based media series in the Pear Bowser Collection look like:
 
@@ -536,39 +501,30 @@ The time-based media series in the Pear Bowser Collection look like:
 - 2012.79.3 - Analog Audiotapes
     - Approximately 213 audiocassettes containing oral histories recorded by Pearl Bowser, between the years of 1972 and the early 1990s, as a part of her Ford Foundation-funded grant project to document the history of African American filmmaking in the United States.
 
-For the Bowser collection, single moving image work instantiated on a single 16mm reel contained in a metal can would follow Scenario A as such:
+For the Bowser collection, single moving image work instantiated on a single videocassette contained in a plastic case would follow Scenario A as such:
 
-*One motion picture film sound film on a metal projection reel contained in a metal canister.*
+*One analog vieotape contained in a plastic case.*
 
-**For film:**  
->*accessionYear(2012).collectionNumber(79).seriesNumber(1).workNumber(16).instantiationNumber(1)componentElement(a)*  
+**For video:**  
+>*accessionYear(2012).collectionNumber(79).seriesNumber(2).workNumber(33).instantiationNumber(1)componentElement(a)*  
 
-**For metal canister:**
->*accessionYear(2012).collectionNumber(79).seriesNumber(1).workNumber(16).instantiationNumber(1)componentElement(a)_acc1*
+**For plastic case:**
+>*accessionYear(2012).collectionNumber(79).seriesNumber(2).workNumber(33).instantiationNumber(1)componentElement(a)_acc1*  
 
-**For metal projection reel:**
->*accessionYear(2012).collectionNumber(79).seriesNumber(1).workNumber(16).instantiationNumber(1)componentElement(a)_acc2*  
+**For preservation main file:**
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_PM.mkv*  
 
-**For DPX package:**
->*accessionYear(2012)_collectionNumber(79)_seriesNumber(1)_workNumber(16)_instantiationNumber(1)componentElement(a)_DPX.mkv*  
-
-**For digital audio file accompanying DPX package:**
->*accessionYear(2012)_collectionNumber(79)_seriesNumber(1)_workNumber(16)_instantiationNumber(1)componentElement(a)_AUD.wav*  
-
-**For digital access file(s) derived from DPX package:** 
->*accessionYear(2012)_collectionNumber(79)_seriesNumber(1)_workNumber(16)_instantiationNumber(1)componentElement(a)_DER_01.mp4*
->*accessionYear(2012)_collectionNumber(79)_seriesNumber(1)_workNumber(16)_instantiationNumber(1)componentElement(a)_DER_01.mov*
+**For derivative file(s):** 
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_DER_01.mp4*
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_DER_01.mov*
 
 
 | Component | Object # |
 | --- | --- |
-| Film | 2012.79.1.16.1a |
-| Metal canister | 2012.79.1.16.1a_acc1 |
-| Metal projection reel	| 2012.79.1.16.1a_acc2 |
-| Lab paper in can | 2012.79.1.16.1a_acc3 |
-| DPX Package (ffv1/mkv) |	2012_79_1_16_1a.mkv |
-| Audio file accompanying DPX package | 2012_79_1_16_1a_AUD.wav |
-| Digital access file(s) derived from DPX Package | 2012_79_1_16_1a_DER_01.mov/.mp4 |
+| Videotape | 2012.79.2.33.1a |
+| Plastic Case | 2012.79.2.33.1a_acc1 |
+| Preservation Main File (ffv1/mkv) |	2012_79_2_33_1a_PM.mkv |
+| Derivative file(s) | 2012_79_2_33_1a_DER_01.mov/.mp4 |
 | | |
 
 </details>
