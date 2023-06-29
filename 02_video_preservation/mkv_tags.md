@@ -16,7 +16,7 @@ Definition and Scope
 | title                     | Twilight City                           | mkv_title                 | title as determined by technician at time of transfer             |
 | coding_history            | Emily can you please enter an example?  | mkv_coding_history        | Coding history for tape digitization. Should we use the cumbersome FADGI lingo? |
 | camera_make_model         | Canon C300                              | mkv_camera_make_model     | this data shoudl be able to be populate in the tag with already existing metatdata in the file |
-| camera_card_script        | script version?                         | mkv_script_version        | this may be better in an attachment.... |
+| camera_card_script        | nmaahcmm-v0.0.7/camera_cards            | mkv_script_version        | include an attachment with detail operation of camera_cards script (e.g. how many original files and concatenated using ffmpeg,.etc) |
 | content_description       | In the 1980s a young journalist...      | mkv_content_description   | short content description created by technician at time of transfer |
 | identifier                | 2012.79.1.16.1a                         | mkv_identifier            | unit identifier |
 | alternate_identifier      | TR2019-63                               | mkv_alternate_indentifier | for your secret agent ID |
