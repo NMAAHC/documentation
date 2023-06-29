@@ -14,8 +14,8 @@ Definition and Scope
 | tag                       | value                                   | DAMS field                | Comments                                                          | 
 | ------------------------- | ------                                  | ------------              | --------                                                          |
 | title                     | Twilight City                           | mkv_title                 | title as determined by technician at time of transfer             |
-| coding_history            | Emily can you please enter an example?  | mkv_coding_history        | Coding history for tape digitization. Should we use the cumbersome FADGI lingo? |
-| camera_make_model         | Canon C300                              | mkv_camera_make_model     | this data shoudl be able to be populate in the tag with already existing metatdata in the file |
+| coding_history            | Transfer from FUJI VHS NTSC Composite Video, with Analog Audio to 10bit FFV1 24 Slice, 1 Stereo Audio Track 24-bit FLAC Matroska File   | mkv_coding_history        | Coding history for tape digitization. Should we use the cumbersome FADGI lingo? |
+| camera_make_model         | Canon C300                              | mkv_camera_make_model     | this data should be able to be populate in the tag with already existing metatdata in the file |
 | camera_card_script        | nmaahcmm-v0.0.7/camera_cards            | mkv_script_version        | include an attachment with detail operation of camera_cards script (e.g. how many original files and concatenated using ffmpeg,.etc) |
 | content_description       | In the 1980s a young journalist...      | mkv_content_description   | short content description created by technician at time of transfer |
 | identifier                | 2012.79.1.16.1a                         | mkv_identifier            | unit identifier |
