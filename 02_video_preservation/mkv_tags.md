@@ -3,7 +3,7 @@
 
 <details>
 <summary>
-Definition and Scope
+Definition and Scope    
 </summary>
 <p>
 
