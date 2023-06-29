@@ -13,10 +13,10 @@
 <details><summary>INTRODUCTION: General conventions for numbering and naming</summary>
 
 >### This intro section describes general conventions to create object numbers for time-based media works and their assocaited components and/or accessories. 
->#### It also desceribes how digital preservxdation files and derivatives are named/numbered.  
+>#### It also desceribes how digital preservation files and derivatives are named/numbered.  
 
 <br/>
-The most general formulation for numbering time-based works on one a single media carrier is:
+The most general formulation for numbering time-based works on a single media carrier is:
 
 >**2018.37.2.1a**  
 >*[accessionYear].[collectionNumber].[workNumber].[instantiationNumber][componentElement]*  
@@ -57,7 +57,7 @@ Mixed archival collections containing time-based works, such as the Pearl Bowser
 
 >1. motion picure film: all gauges and bases
 >2. video: tape-based video formats, both cassette and open-reel   
->3. audio: tape-based audio formats, both cassetes and open-reel
+>3. audio: tape-based audio formats, both cassette and open-reel
 >4. optical discs: all optical disc formats - DVD, CD, Laserdisc, etc.
 >5. digital carriers: all digital carriers - harddrives, thumbdrives, computer disks, etc.
 >>> ###### the content of the digital carrier, e.g. digital photos, digital video, digital audio, software, word processing documents, etc., does not impact the numbering
@@ -80,7 +80,7 @@ For example, where the work is a feature film in a can on one reel/core with Wor
 
 When a accessory is associated with more than one Component Element, that accessory will have both Component Element letters in its object number. For instance, if a film can with the Accessory Suffix acc_1 contains two reels/cores of film with object numbers `2018.37.2.1a` & `2018.37.2.1b`, the object number for the film can will be `2018.37.2.1ab_acc1`. Don't make two object numbers for the can, e.g. creating both `2018.37.2.1a` and `2018.37.2.1b` for the singular can is incorrect. 
 
->> ##### when deciding what numerical order to creat the accessories to an object, give number `1` to the accessory carrying the most metadata about the object. For films this is most often the can/case and, as such, the can/case if given Accessory Suffix number `1` while reels/core and other ephemera are given later numbers. Don't skip numbers when assigning Accessory Suffix. 
+>> ##### when deciding what numerical order to create the accessories to an object, give number `1` to the accessory carrying the most metadata about the object. For films this is most often the can/case and, as such, the can/case if given Accessory Suffix number `1` while reels/core and other ephemera are given later numbers. Don't skip numbers when assigning Accessory Suffix. 
 <br/>
 </details>
 <br/>
@@ -242,7 +242,7 @@ The other option would be to splice all the 'works' together with a bit of leade
 | digital access file(s) derived from DPX packagee | 2013_19_1_1a.mov/.mp4 |
 | | |
 
-> #### When making this decision, think about if this is why the films may be spliced together? Was it done by the filmmaker to present a sample reel of work? A previous collector whose arhchival organization is important? Is it simply left this way after arriving from a processing lab? Ask which of these choices makes the archive more accessible and understandable.
+> #### When making this decision, think about if this is why the films may be spliced together? Was it done by the filmmaker to present a sample reel of work? A previous collector whose archival organization is important? Is it simply left this way after arriving from a processing lab? Ask which of these choices makes the archive more accessible and understandable.
 
 </details>
 <br/>
@@ -295,7 +295,7 @@ this choice will be based upon what makes the most sense for the archive and how
 So, motion picture film objects in this colleciton have a numbering like this:
 
 >2012.79.2.1.1a  
->>*accessionYear(2012).collectionNumber(79).**seriesNumber(1)**.workNumber(1).instantiaionNumber(1)componentElement(a)*
+>>*accessionYear(2012).collectionNumber(79).**seriesNumber(1)**.workNumber(1).instantiationNumber(1)componentElement(a)*
 
 The time-based media series in the Pear Bowser Collection look like:
 
@@ -378,7 +378,7 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 | --- | --- |
 | U-matic videotape cassette | 2015.66.1.1a |
 | U-matic plastic case | 2015.66.1.1a_acc1 |
-| Preservation main file (ffv1/mkv) |	2015_66_1_1a.mkv |
+| Preservation main file (ffv1/mkv) |	2015_66_1_1a_PM.mkv |
 | Digital access file(s) derived from preservation main file | 2015_66_1_1a_DER_01.mov/.mp4 |
 | | |
 
@@ -451,12 +451,13 @@ For the Bowser collection, single moving image work instantiated on a single 16m
 | VHS videotae | 2013.19.1.1a |
 | VHS plastic tape case | 2013.19.1.1a_acc1 |
 | Notecard inside VHS plastic tape case | 2013.19.1.1a_acc2 |
-| Preservation main file from VHS videotape (ffv1/mkv) | 2013_19_1_1a.mkv |
+| Preservation main file from VHS videotape (ffv1/mkv) | 2013_19_1_1a_PM.mkv |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_01.mov/.mp4 |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_02.mov/.mp4 |
 | digital access file(s) derived from preservation main file | 2013_19_1_1a_DER_03.mov/.mp4 |
 | | |
 
+<<<<<<< HEAD:01_cataloging/TBM_object_number_and_file_naming_conventions.md
 </details>
 </details>
 <br/>
@@ -618,12 +619,15 @@ Our main guideline, of which several examples follow below, is that the filename
 | Preservation main file Tape 2 side "A" |	2011_17_21_1b_s1.wav |
 | Preservation main file Tape 2 side "B" |	2011_17_21_1b_s2.wav |
 
+=======
+>>>>>>> a38195958f99c81f932ad8d0bfd1fcfcf870cc44:TBM_cataloging/TBM_Object_Number_and_File_Naming_Conventions.md
 </details>
 <br/>
 
 ---
 
 <br/>
+<<<<<<< HEAD:01_cataloging/TBM_object_number_and_file_naming_conventions.md
 <details><summary>Circumstance D: An oral history on a single audiocassette tape contained in a plastic case with audio recording on both sides, labled side 1 and side 2. There is labeling on the outside of the tape as well as an insert with minor notes on the oral history. 
 
 </summary>
@@ -677,6 +681,67 @@ LP						2016.1.23.1a
 	DLP Disc 1 Preservation Main File – Side “B”		2016_1_23_1b_s2.wav
 	DLP Disc 2 Preservation Main File – Side “A”		2016_1_23_1c_s1.wav
 	DLP Disc 2 Preservation Main File – Side “B”		2016_1_23_1c_s2.wav
+=======
+<details><summary>Circumstance D : Mixed archival collection containing time-based medaia.</summary>
+<br/>
+
+> #### Circumstance D:
+*Mixed archival collection containing time-based media.*
+<br/>
+<br/>
+>Mixed archival collections containing time-based media works, such as the Pearl Bowser collection (2012.79), have a Series Number inserted between the Collection Number and Work Number. This number is used to indicate the type of media carrier or object.
+
+>1. motion picure film: all gauges and bases
+>2. video: tape-based video formats, both cassette and open-reel   
+>3. audio: tape-based audio formats, both cassetes and open-reel
+>4. optical discs: all optical disc formats - DVD, CD, Laserdisc, etc.
+>5. digital carriers: all digital carriers - harddrives, thumbdrives, computer disks, etc.
+>>> ###### the content of the digital carrier, e.g. digital photos, digital video, digital audio, software, word processing documents, etc., does not impact the numbering
+>6. photographs: silver based, other analog processes and printed digital images
+>7. paper items: all loose leaf paper items, flyers, posters, etc.
+>8. bound paper items: books and magazines
+>9. objects: furniture, trophies, clothing, all other objects
+
+So, analog videotapes in this colleciton have a numbering like this:
+
+>2012.79.2.1.1a  
+>>*accessionYear(2012).collectionNumber(79).**seriesNumber(2)**.workNumber(1).instantiaionNumber(1)componentElement(a)*
+
+The time-based media series in the Pear Bowser Collection look like:
+
+- 2012.79.1 - Motion Picture Films
+    - Over 100 short- and feature-length motion picture films relating to the African American experience. Titles include home movies, television documentaries, musical concert films, early twentieth-century 'race films,' outtake fragments, and other ephemera.
+- 2012.79.2 - Analog Videotapes
+    - Approximately 246 video recordings, including television appearances by Pearl Bowser, promotional spots, music videos, and a significant number of standard definition telecine transfers of materials originating on film (many of which are held in the collection's film series).
+- 2012.79.3 - Analog Audiotapes
+    - Approximately 213 audiocassettes containing oral histories recorded by Pearl Bowser, between the years of 1972 and the early 1990s, as a part of her Ford Foundation-funded grant project to document the history of African American filmmaking in the United States.
+
+For the Bowser collection, single moving image work instantiated on a single videocassette contained in a plastic case would follow Scenario A as such:
+
+*One analog vieotape contained in a plastic case.*
+
+**For video:**  
+>*accessionYear(2012).collectionNumber(79).seriesNumber(2).workNumber(33).instantiationNumber(1)componentElement(a)*  
+
+**For plastic case:**
+>*accessionYear(2012).collectionNumber(79).seriesNumber(2).workNumber(33).instantiationNumber(1)componentElement(a)_acc1*  
+
+**For preservation main file:**
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_PM.mkv*  
+
+**For derivative file(s):** 
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_DER_01.mp4*
+>*accessionYear(2012)_collectionNumber(79)_seriesNumber(2)_workNumber(33)_instantiationNumber(1)componentElement(a)_DER_01.mov*
+
+
+| Component | Object # |
+| --- | --- |
+| Videotape | 2012.79.2.33.1a |
+| Plastic Case | 2012.79.2.33.1a_acc1 |
+| Preservation Main File (ffv1/mkv) |	2012_79_2_33_1a_PM.mkv |
+| Derivative file(s) | 2012_79_2_33_1a_DER_01.mov/.mp4 |
+| | |
+>>>>>>> a38195958f99c81f932ad8d0bfd1fcfcf870cc44:TBM_cataloging/TBM_Object_Number_and_File_Naming_Conventions.md
 
 </details>
 </details>
