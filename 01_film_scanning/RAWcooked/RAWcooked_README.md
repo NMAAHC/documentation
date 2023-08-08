@@ -46,15 +46,20 @@ The most general directory structure for DPX films scans and attachments is:
 
 | tag                       | value                                   | DAMS field                | Comments                                                          | 
 | ------------------------- | ------                                  | ------------              | --------                                                          |
-| TITLE                     | Twilight City                           | mkv_title                 | title as determined by technician at time of transfer             |
-| coding_history            | O=VHS, C=Color, S=Analog, VS= NTSC, F=24, A=4:3, R=640×480, T=Sony SVO-5800,  O=FFV1mkv, C=Color, V=Composite, S=Analog Stereo, F=24, A=4:3, W=10-bit, R=640×480, M=YUV422p10, T=Blackmagic UltraStudio 4K Mini SN123456, ffmpeg vrecord; in-house, O=FFV1mkv, W=10-bit, R640x480, MYUV422p10 N=Emily Nabasny  | mkv_coding_history        | Coding history for tape digitization. Should we use the cumbersome FADGI lingo? |
-| camera_make_model         | Canon C300                              | mkv_camera_make_model     | this data should be able to be populate in the tag with already existing metatdata in the file |
-| content_description       | In the 1980s a young journalist...      | mkv_content_description   | short content description created by technician at time of transfer |
-| identifier                | 2012.79.1.16.1a                         | mkv_identifier            | unit identifier |
-| alternate_identifier      | TR2019-63                               | mkv_alternate_indentifier | for your secret agent ID |
-| original_projection_speed | 18fps                                   | mkv_fps                   | we do also put this in the DPX header... but does anyone anywhere ever look at those? |
-| originating format        | U-matic                                 | mkv_originating_format    | needs controlled vocab... PBCore... how to enforce? |
-| creator                   | Smithsonian NMAAHC                      | mkv_creator               | Entity responsible for creation of digital file |
+| TITLE                     | Twilight City                           | mkv_title                 | title as determined by technician at time of transfer  |SUB_TITLE         	    | A Journey to the Moon		      | mkv_sub_title             |Sub title of object
+| _coding_history            | O=VHS, C=Color, S=Analog, VS= NTSC, F=24, A=4:3, R=640×480, T=Sony SVO-5800,  O=FFV1mkv, C=Color, V=Composite, S=Analog Stereo, F=24, A=4:3, W=10-bit, R=640×480, M=YUV422p10, T=Blackmagic UltraStudio 4K Mini SN123456, ffmpeg vrecord; in-house, O=FFV1mkv, W=10-bit, R640x480, MYUV422p10 N=Emily Nabasny  | mkv_coding_history                                                   | Coding history for tape digitization. Should we use the cumbersome FADGI lingo? |
+| ENCODER		    | Lasergraphics Scanstation .08           | mkv_encoder    	
+| ENCODER_SETTINGS          |                                         | mkv_encoder_settings      | A list of the settings used for encoding this item. No specific format.
+| DIRECTOR		    | Blake McDowell                          | mkv_director              | Director of film
+| DESCRIPTION               | In the 1980s a young journalist...      | mkv_content_description   | short content description created by technician at time of transfer |
+| DATE_DIGITIZED            | 2023-08-07                              | MKV_date_digitized        | The time that the item was transferred to a digital medium. This is akin to the “IDIT” tag in [@?RIFF.tags
+| CATALOG_NUMBER            | 2012.79.1.16.1a                         | mkv_catalog_number        | unit identifier |
+| _alternate_identifier     | TR2019-63                               | mkv_alternate_indentifier | for your secret agent ID |
+| FPS                       | 18fps                                   | mkv_fps                   | we do also put this in the DPX header... but does anyone anywhere ever look at those? |
+| ORIGINAL_MEDIA_FORMAT     | 16mm                                    | mkv_originating_media_type| needs controlled vocab... PBCore... how to enforce? |
+| _creator                  | Smithsonian NMAAHC                      | mkv_creator               | Entity responsible for creation of digital file |
+| COPYRIGHT                 | Use required by copyright holder        | mkv_copyright 
+| LICENSE		    | NMAAHC License                          | mkv_license 
 |||||      
 <br>
 
