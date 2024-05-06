@@ -27,14 +27,13 @@ The most general directory structure for DPX films scans and attachments is:
 		- start with 0000000.dpx
 		- e.g. 2012_79_1_16_1a_0000000.dpx
 - the .TIF files are photos of the physical object
+  - naming structure should be better...
+  - object_JPC_AV_474-01.TIF
+  - note that mkv tags can point, or reference, directly to attachments, so a tag could say "this photo object_JPC_AV_474-01.TIF is a photo of the physical object"
 - README.txt
 	- notes
 	- need to structure this
 	- current "my name is Crystal and when I was making these DPX I was thinkng about the stars."
-- .zip file is a SD .mp4 of the full film being scanned
-	- this may not actually be an acceptable attachment
-	- will discuss further with Jerome/Dave
-	- should be made at time of scan
 - still-01_JPC_AV-474_0000226.png
 	- these are .dpx that were trasncoded into .png via Photoshop to be representative stills
 	- make 3-4 per scan
