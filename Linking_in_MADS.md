@@ -1,6 +1,4 @@
 # Linking assets in DAMS for MADS caption delivery. 
-#### [Made by Bleakley McDowell with Scribe](https://scribehow.com/shared/Linking_assets_in_DAMS_for_MADS_caption_delivery__2F6FBcNQRoqnTOFBs9F65w)
-
 
 1\. Log into Smithsonian DAMS and search for an asset. Searching by filename is a useful method.
 
