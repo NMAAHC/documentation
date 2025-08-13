@@ -124,6 +124,6 @@ Click on the three dots menu.
 24\. Save your changes.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-08-13/18263ad6-f757-4abf-9464-eeb75eca04c2/File.jpeg?tl_px=272,0&br_px=3024,1538&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=828,167)
-#### [Made with Scribe](https://scribehow.com/shared/Linking_assets_in_DAMS_for_MADS_caption_delivery__2F6FBcNQRoqnTOFBs9F65w)
+
 
 
